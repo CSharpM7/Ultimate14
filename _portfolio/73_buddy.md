@@ -12,7 +12,7 @@ caption:
 ---
 
 # Overview
-So someone forgot to give these models actual informative names...here's what I've pieced together:
+Uhhh
 
 ### Tilts
 ```diff
@@ -21,8 +21,6 @@ So someone forgot to give these models actual informative names...here's what I'
 ```
 
 ### Aerials
-```diff
-+ Nair Always Sends Forward
-+ Nair Landing Lag Decreased
-+ Nair has a landing hitbox [(Design Rule 3)](pictochat)
-```
+Nair Always Sends Forward
+Nair Landing Lag Decreased
+Nair has a landing hitbox [(Design Rule 3)](pictochat)
