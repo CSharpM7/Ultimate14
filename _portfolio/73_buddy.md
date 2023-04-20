@@ -14,13 +14,7 @@ caption:
 # Overview
 Uhhh
 
-### Tilts
-```diff
-+ Up Tilt Base
-- Up Tilt KBG
-```
-
 ### Aerials
-Nair Always Sends Forward
-Nair Landing Lag Decreased
-Nair has a landing hitbox [(Design Rule 3)](pictochat)
+- Nair Always Sends Forward
+- Nair Landing Lag Decreased
+- Nair has a landing hitbox [(Design Rule 3)](balancedoc)
