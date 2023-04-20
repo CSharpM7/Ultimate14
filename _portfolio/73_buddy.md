@@ -17,4 +17,4 @@ Uhhh
 ### Aerials
 - Nair Always Sends Forward
 - Nair Landing Lag Decreased
-- Nair has a landing hitbox [(Design Rule 3)](balancedoc/#Nairs)
+- Nair has a landing hitbox [(Design Rule 3)](balancedoc/#nairs)
