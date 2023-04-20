@@ -13,7 +13,7 @@
           <a href="{{ client.url }}">
             <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: {{ site.data.sitetext[site.locale].clients.max-height | default: "100px" }}">
           </a>
-          <p class="text-muted">{{ client.title }}</p>
+          <p class="text-muted text-center">{{ client.title }}</p>
         </div>
 	    {% endfor %}
       </div>
