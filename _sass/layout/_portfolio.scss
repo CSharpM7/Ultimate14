@@ -19,7 +19,7 @@
         opacity: 0;
         background: fade-out($primary, 0.1);
         &:hover {
-          opacity: 0.2;
+          opacity: 0.5;
         }
         .portfolio-hover-content {
           font-size: 20px;
