@@ -23,22 +23,11 @@
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          {% if project.changes == false %}
-          <style>
-            img {
-              -webkit-filter: grayscale(100%);
-              filter: grayscale(100%);
-            }
-          </style>
+          {% if project.changes == "false" %}
+            <img class="img-fluid d-block mx-200" src="{{ project.image }}" alt="" style="vertical-align:middle filter: grayscale(0%) max-height: {{ site.data.sitetext[site.locale].portfolio.max-height | default: "100px" }}">
           {% else %}
-          <style>
-            img {
-              -webkit-filter: none;
-              filter: none !important;
-            }
-          </style>
+            <img class="img-fluid d-block mx-200" src="{{ project.image }}" alt="" style="vertical-align:middle filter: grayscale(100%) max-height: {{ site.data.sitetext[site.locale].portfolio.max-height | default: "100px" }}">
           {% endif %}	   
-          <img class="img-fluid d-block mx-200" src="{{ project.image }}" alt="" style="vertical-align:middle max-height: {{ site.data.sitetext[site.locale].portfolio.max-height | default: "100px" }}">
         </a>
         <!--
         <div class="portfolio-caption">
