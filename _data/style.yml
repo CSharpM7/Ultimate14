@@ -4,6 +4,6 @@ black: "#1B1E1F"
 white: "#000"
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+header-image: "../img/header.png"
 contact-image: "../img/map-image.png"
 portfolio-icon: "../assets/img/chara/chara_mask.png"
