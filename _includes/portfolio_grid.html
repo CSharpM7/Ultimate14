@@ -23,7 +23,7 @@
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          {% if project.content %}
+          {% if project.changes %}
             <img class="img-fluid d-block mx-200" src="{{ project.image }}" alt="" style="filter: grayscale(0%); vertical-align:middle max-height: {{ site.data.sitetext[site.locale].portfolio.max-height | default: "100px" }}">
           {% else %}
             <img class="img-fluid d-block mx-200" src="{{ project.image }}" alt="" style="filter: grayscale(100%); vertical-align:middle max-height: {{ site.data.sitetext[site.locale].portfolio.max-height | default: "100px" }}">
