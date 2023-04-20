@@ -23,11 +23,18 @@
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          {% if project.changes == nil or project.changes == false %}
+          {% if project.changes == false %}
           <style>
             img {
-              -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+              -webkit-filter: grayscale(100%);
               filter: grayscale(100%);
+            }
+          </style>
+          {% else %}
+          <style>
+            img {
+              -webkit-filter: grayscale(0%);
+              filter: grayscale(0%);
             }
           </style>
           {% endif %}
