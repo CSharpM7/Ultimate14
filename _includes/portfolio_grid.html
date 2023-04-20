@@ -10,8 +10,20 @@
     <div class="row">
 	{% for project in site.portfolio %}
       <div class="col-md-2 col-sm-2 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">	
-          {% if project.changes == "false" %}
+        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">	     
+          <div class="portfolio-hover"
+          style="
+            background: linear-gradient(
+              45deg,
+              rgba(236, 29, 29, 0.5),
+              rgba(214, 14, 14, 0.5) 100%
+            );
+          ">
+            <div class="portfolio-hover-content">
+              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
+            </div>
+          </div>
+          {% if project.changes == false %}
           <style>
             img {
               -webkit-filter: grayscale(100%);
@@ -25,19 +37,7 @@
               filter: none !important;
             }
           </style>
-          {% endif %}	        
-          <div class="portfolio-hover"
-          style="
-            background: linear-gradient(
-              45deg,
-              rgba(236, 29, 29, 0.5),
-              rgba(214, 14, 14, 0.5) 100%
-            );
-          ">
-            <div class="portfolio-hover-content">
-              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
-            </div>
-          </div>
+          {% endif %}	   
           <img class="img-fluid d-block mx-200" src="{{ project.image }}" alt="" style="vertical-align:middle max-height: {{ site.data.sitetext[site.locale].portfolio.max-height | default: "100px" }}">
         </a>
         <!--

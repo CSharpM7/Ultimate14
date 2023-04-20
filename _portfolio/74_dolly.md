@@ -3,7 +3,7 @@ title: Glossary
 subtitle: 
 image: assets/img/chara/chara_7_dolly_00.png
 alt: 
-changes: "false"
+changes: false
 
 caption:
   title: Glossary
