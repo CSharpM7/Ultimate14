@@ -75,3 +75,7 @@ Stage scenes are in the order they appear in internal files. SNA: Should not att
 |25 | ![Shooting Stars](https://ssb.wiki.gallery/images/thumb/2/27/PictoChat_2_Shooting_Star.jpeg/175px-PictoChat_2_Shooting_Star.jpeg)| Hardcoded collision (but WHY). Params start at `0x1a796fa1b0`? `0x1518a1ffbc` star angle. `0x253d141992` control when to split into two stars. | attempting to remove stars | | |
 |26 | ![Moon](https://ssb.wiki.gallery/images/thumb/8/86/PictoChat_2_Moon.jpeg/175px-PictoChat_2_Moon.jpeg)| `0x186ce6a6ec` scene length. `0x1f0bc8f27d` has some influence on blackout effect | Remove final dark phase | |
 |27 | ![Flashlight](https://ssb.wiki.gallery/images/thumb/b/b3/PictoChat_2_Policeman.jpeg/175px-PictoChat_2_Policeman.jpeg)| | removed hitboxes/watchmen | |
+
+# Nairs
+
+Lol
