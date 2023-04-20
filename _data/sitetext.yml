@@ -16,27 +16,26 @@ en: &DEFAULT_EN
 #    button: Tell Me More
 #    buttonlink: "#services"
     
-
-  portfolio:
-    title: "C#'s Stage Info"
-    secondtitle: "C#'s Custom Stages"
-    max-height: 200px
-    text: "Random information about random stages in smash ultimate; geared towards modders"
-    section: portfolio
-    closebutton: ""
-
   about:
-    title: "About Us"
-    text: "our story"
+    title: "About"
+    text: "The Stealth Patch"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
+
+  portfolio:
+    title: "Patch Notes"
+    secondtitle: "Design Documentation"
+    max-height: 200px
+    text: ""
+    section: changes
+    closebutton: ""
 
   clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "PictochatDX"
+      - title: "Design Guide"
         url: "pictochat"
         logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
   
@@ -45,11 +44,8 @@ en: &DEFAULT_EN
     text: "Select frequently asked questions and possible solutions"
     section: services
     list:
-      - title: "What tools should I use?"
-        desc: "[**CrossMod**](https://github.com/M-1-RLG/CrossMod) or [**SSBH_Editor**](https://github.com/ScanMountGoat/ssbh_editor) for previewing models and assigning materials <br/> [**StudioSB**](https://github.com/Ploaj/StudioSB) for importing models and changing level collision <br/> [**SwitchToolbox**](https://github.com/KillzXGaming/Switch-Toolbox) for changing textures <br/> Blender (and [**carlos' tools**](https://github.com/ssbucarlos/smash-ultimate-blender)) for editing models <br/> [**Smush Material Research**](https://github.com/ScanMountGoat/Smush-Material-Research) for material/light/xml info. Contains links for XML(exe) and ssbh_data_json for additional editing <br/> [**PRCEditor**](https://github.com/BenHall-7/paracobNET/releases/tag/v3.0) and [**Parcel**](https://github.com/blu-dev/parcel/releases/tag/v1.0.0) for editing stdat,stprm and prc files"
-        icon: fas fa-solid fa-toolbox
-      - title: "What makes a mod not wifi safe?"
-        desc: "Anything that changes gameplay is not wifi safe. Things like changing motion files of a moving platform, the lvd file or an stdat parameter can lead to desyncs."
+      - title: "Is this wifi safe?"
+        desc: "Lmao"
         icon: fas fa-solid fa-wifi
       #- title: "Responsive Design"
       #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."

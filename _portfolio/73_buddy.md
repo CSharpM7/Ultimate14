@@ -1,14 +1,28 @@
 ---
-title: Glossary
+title: Banjo and Kazooie
 subtitle: 
 image: assets/img/chara/chara_7_buddy_00.png
 alt: 
 changes: "true"
 
 caption:
-  title: Glossary
+  title:
   subtitle: 
   thumbnail: assets/img/chara/chara_7_buddy_00.png
 ---
 
-This is a table of commonly used phrases in either folder names, files names, or stdat parameters
+# Overview
+So someone forgot to give these models actual informative names...here's what I've pieced together:
+
+### Tilts
+```diff
++ Up Tilt Base
+- Up Tilt KBG
+```
+
+### Aerials
+```diff
++ Nair Always Sends Forward
++ Nair Landing Lag Decreased
++ Nair has a landing hitbox [(Design Rule 3)](pictochat)
+```

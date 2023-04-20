@@ -1,11 +1,11 @@
 ---
-title: Glossary
+title: Terry
 subtitle: 
 image: assets/img/chara/chara_7_dolly_00.png
 alt: 
 
 caption:
-  title: Glossary
+  title:
   subtitle: 
   thumbnail: assets/img/chara/chara_7_dolly_00.png
 ---
