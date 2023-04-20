@@ -42,7 +42,7 @@ en: &DEFAULT_EN
   services:
     title: "FAQ"
     text: "Select frequently asked questions and possible solutions"
-    section: services
+    section: faq
     list:
       - title: "Is this wifi safe?"
         desc: "Lmao"
@@ -53,6 +53,13 @@ en: &DEFAULT_EN
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #  desc: "Your description here, full **Markdown** support"
       #  icon: fab fa-markdown
+
+  download:
+    title: "Download"
+    url: http://ko-fi.com/csharpm7/tiers
+    linkname: "N/A"
+    section: download
+
 
   footer:
     legal: " "
