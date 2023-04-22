@@ -62,7 +62,7 @@
     z-index: 2;
   }
 }
-@media (min-width: 200px) {
+@media (max-width: 200px) {
   #portfolio {
     .portfolio-item {
       margin: 0 0 30px;
