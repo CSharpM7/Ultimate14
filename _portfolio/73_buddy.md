@@ -14,9 +14,6 @@ caption:
 # Overview
 Uhhh
 
-
-# Changes
-
 <center>
 
 |  |  |
