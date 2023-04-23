@@ -11,12 +11,13 @@ caption:
   thumbnail: assets/img/chara/chara_7_buddy_00.png
 ---
 
-# Overview
-Uhhh
-
 <center>
 
-|  |  |
+# Overview
+
+Uhhh
+
+| Move | Change |
 | ----------- | ----------- |
 | **Nair** | Always sends forward |
 |  | air Landing Lag Decreased |
