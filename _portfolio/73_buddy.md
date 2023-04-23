@@ -14,7 +14,10 @@ caption:
 # Overview
 Uhhh
 
-### Aerials
-- Nair Always Sends Forward
-- Nair Landing Lag Decreased
-- Nair has a landing hitbox [(Design Rule 3)](balancedoc#nairs)
+
+# Changes
+|  |  |
+| ----------- | ----------- |
+| **Nair** | Always sends forward |
+|  | air Landing Lag Decreased |
+|  | Nair has a landing hitbox [(Design Rule 3)](balancedoc#nairs) |
