@@ -6,7 +6,8 @@
     .portfolio-link {
       position: relative;
       display: block;
-      max-width: 400px;
+      min-width: 200px;
+      max-width: 200px;
       margin: 0 auto;
       cursor: pointer;
       .portfolio-hover {
