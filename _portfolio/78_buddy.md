@@ -22,7 +22,7 @@ The character with the most changes to Ultimate 14, these changes help bring Ban
 | **Forward Tlt** | | Damage Increased |
 |  |  | Hitbox moved slightly forward |
 | **Up Tilt** | | Start Up Increased by 1 frame |
-|  |  | New hitbox on base of Banjo () |
+|  |  | New hitbox on base of Banjo |
 |  |  | First Active Frame increased |
 | **Down Tlt** | | Angle Increased |
 |  |  |  |
@@ -37,6 +37,7 @@ The character with the most changes to Ultimate 14, these changes help bring Ban
 |  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#nairs) |
 | **Forward Air** | | Landing Lag Increased (11->13) |
 | **Back Air** | | Landing Lag Decreased (18->14) |
+|  |  | Damage Increased |
 | **Up air** | | Landing Lag Decreased (12->10) |
 |  |  | Damage Increased |
 |  |  |  |
