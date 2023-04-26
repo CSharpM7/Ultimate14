@@ -34,7 +34,7 @@ The character with the most changes to Ultimate 14, these changes help bring Ban
 |  |  |  |
 | **Neutral Air** | | Always sends forward |
 |  |  | Landing Lag Decreased (16->13) |
-|  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#nairs) |
+|  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Nairs) |
 | **Forward Air** | | Landing Lag Increased (11->13) |
 | **Back Air** | | Landing Lag Decreased (18->14) |
 |  |  | Damage Increased |
