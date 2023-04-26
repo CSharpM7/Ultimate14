@@ -19,4 +19,4 @@ caption:
 | :----------- | :-----: | ----------- |
 | **Nair** | | Always sends forward |
 |  |  | Landing Lag Decreased |
-|  |   | Has a landing hitbox [(Design Rule 3)](balancedoc#nairs) |
+|  |   | Has a landing hitbox [(Design Rule 3)](mechanics#nairs) |
