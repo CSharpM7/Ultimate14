@@ -6,17 +6,17 @@ import os.path
 import shutil
 
 
-#characters = ["mario","donkey","link","samus","samusd","yoshi","kirby","fox","pikachu","luigi","ness","captain","purin","peach","daisy","koopa","ice_climber","sheik","zelda","mariod","pichu","falco","marth","lucina","younglink","ganon","mewtwo","roy","chrom","gamewatch","metaknight","pit","pitb","szerosuit","wario","snake","ike","pzenigame","pfushigisou","plizardon","diddy","lucas","sonic","dedede","pikmin","lucario","robot","toonlink","wolf","murabito","rockman","wiifit","rosetta","littlemac","gekkouga","miifighter","miigunner","miiswordsman","palutena","pacman","reflet","shulk","koopajr","duckhunt","ryu","ken","cloud","kamui","bayonetta","inkling","ridley","simon","richter","krool","shizue","gaogaen","packun","jack","brave","buddy","dolly","master","tantan","pickel","edge","eflame_first","demon","trail"]
-characters = ["mario"]
-#characters = {"pitb","eflame","pfushigisou","purin","younglink","plizardon","shulk","chrom","miifighter","gamewatch","krool","samusd","ryu","rosetta","yoshi","lucas","link","lucario","zelda","kamui","wolf","nana","tantan","koopag","ridley","gekkouga","ike","roy","rockman","peach","elight","gaogaen","falco","ness","kirby","pikachu","daisy","sheik","mariod","luigi","captain","mario","jack","palutena","dolly","pickel","wiifit","pzenigame","pichu","pit","ken","brave","richter","miiswordsman","robin","master","robot","szerosuit","ganon","wario","diddy","shizue","littlemac","pacman","edge","marth","trail","mewtwo","metaknight","toonlink","koopajr","sonic","donkey","inkling","packun","miigunner","buddy","pikmin","cloud","fox","duckhunt","lucina","murabito","bayonetta","samus","koopa","simon","popo","dedede","snake","demon"}
+characters = ["mario","donkey","link","samus","samusd","yoshi","kirby","fox","pikachu","luigi","ness","captain","purin","peach","daisy","koopa","ice_climber","sheik","zelda","mariod","pichu","falco","marth","lucina","younglink","ganon","mewtwo","roy","chrom","gamewatch","metaknight","pit","pitb","szerosuit","wario","snake","ike","ptrainer","diddy","lucas","sonic","dedede","pikmin","lucario","robot","toonlink","wolf","murabito","rockman","wiifit","rosetta","littlemac","gekkouga","miifighter","miigunner","miiswordsman","palutena","pacman","reflet","shulk","koopajr","duckhunt","ryu","ken","cloud","kamui","bayonetta","inkling","ridley","simon","richter","krool","shizue","gaogaen","packun","jack","brave","buddy","dolly","master","tantan","pickel","edge","eflame_first","demon","trail"]
+names = ["Mario","Donkey Kong","Link","Samus","Dark Samus","Yoshi","Kirby","Fox","Pikachu","Luigi","Ness","Captain Falcon","Jigglypuff","Peach","Daisy","Bowser","Ice Climbers","Sheik","Zelda","Dr Mario","Pichu","Falco","Marth","Lucina","Young Link","Ganondorf","Mewtwo","Roy","Chrom","Mr Game n Watch","Meta Knight","Pit","Dark Pit","Zerosuit Samus","Wario","Snake","Ike","Pokemon Trainer","Diddy","Lucas","Sonic","King Dedede","Olimar","Lucario","ROB","Toon Link","Wolf","Villager","Megaman","Wii Fit Trainer","Rosalina","Little Mac","Greninja","Mii Brawler","Mii Gunner","Mii Swordfighter","Palutena","Pacman","Robin","Shulk","Bowser Jr","Duck Hunt","Ryu","Ken","Cloud","Corrin","Bayonetta","Inkling","Ridley","Simon","Richter","King Krool","Isabelle","Incineroar","Piranha Plant","Joker","Hero","Banjo & Kazooie","Terry","Byleth","Min Min","Steve","Sephiroth","Aegis","Kazuya","Sora"]
 
 #for c in range(len(characters)):
 #    print("#"+str(c)+":"+characters[c])
-for c in characters:
-    i = characters.index(c)
+for i in range(len(characters)):
+    chara = characters[i]
+    name = names[i]
     buffer = "0" if i < 10 else ""
-    print("#"+str(i)+":"+c)
-    newfile = os.getcwd() + "\\_portfolio\\" + buffer + str(i) + "_"+c+".md"
-    shutil.copyfile(os.getcwd() +'\\_portfolio\\74_dolly.md', newfile)
+    print("#"+str(i)+":"+chara)
+    newfile = os.getcwd() + "\\_portfolio\\" + buffer + str(i) + "_"+chara+".md"
+    shutil.copyfile(os.getcwd() +'\\template.md', newfile)
     for line in fileinput.input(newfile, inplace=True):
-        print('{}'.format(line.replace("Terry",c).replace("dolly",c)), end='')
+        print('{}'.format(line.replace("Terry",name).replace("dolly",chara)), end='')

@@ -2,7 +2,7 @@
 title: Mario
 subtitle: 
 image: assets/img/chara/chara_7_mario_00.png
-alt: 
+alt: Mario
 
 caption:
   title:

@@ -1,8 +1,8 @@
 ---
-title: Banjo and Kazooie
+title: Banjo & Kazooie
 subtitle: 
 image: assets/img/chara/chara_7_buddy_00.png
-alt: 
+alt: Banjo & Kazooie
 changes: "true"
 
 caption:
