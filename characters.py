@@ -16,7 +16,7 @@ for c in characters:
     i = characters.index(c)
     buffer = "0" if i < 10 else ""
     print("#"+str(i)+":"+c)
-    newfile = os.getcwd() + "\\" + buffer + str(i) + "_"+c+".md"
-    shutil.copyfile('74_dolly.md', newfile)
+    newfile = os.getcwd() + "\\_portfolio\\" + buffer + str(i) + "_"+c+".md"
+    shutil.copyfile(os.getcwd() +'\\_portfolio\\74_dolly.md', newfile)
     for line in fileinput.input(newfile, inplace=True):
         print('{}'.format(line.replace("Terry",c).replace("dolly",c)), end='')
