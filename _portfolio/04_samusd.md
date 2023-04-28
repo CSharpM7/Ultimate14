@@ -13,4 +13,5 @@ caption:
 
 # Overview 
 
-One of the echoes that received a decent amount of changes, Dark Samus now acts more like a glass cannon in a similar manner to Mewtwo: strong hits but doesn't take hits well. The main changes involve converting most multihits into single hits, more mobility, and less survivability. Dark Samus has access to a slightly more limited arsenal than Samus, but its normals help chain into a finishing blow a lot smoother. 
+One of the echoes that received a decent amount of changes, Dark Samus now acts more like a glass cannon in a similar manner to Mewtwo: strong hits but doesn't take hits well. The main changes involve converting most multihits into single hits, more mobility, and less survivability. It has increased air and ground speed, but much less weight, turning from defensive powerhouse to more of an aggro character that can control space. Her nair and fair are more geared towards comboing, which could help finding a charge shot KO. Speaking of specials, Dark Samus only has access to the Hyper Missile. Hyper Missiles are like Samus's super missile, but stronger. They do leave Dark Samus more vulnerable, though. 
+Dark Samus.
