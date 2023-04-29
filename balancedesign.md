@@ -23,10 +23,11 @@ These are the guides that are used
 
 # Move Changes
 
-- Absolutely NO new moves should be added
+- Absolutely NO* new moves should be added
+- *Echo Fighters can be alotted three new moves, prioritizing different special moves over normals
 - Additional animations should only be included if extremely necessary
 - Moves that couldn't kill before shouldn't suddenly kill now; moves that killed before can be changed to kill much later, however 
-- Moves' special properties covered in direct should not be altered excessively…except EWGF
+- Moves' special properties covered in a nintendo direct / sakurai presents should not be altered excessively…except EWGF
 - Very few moves should be retooled (ie how raptor boost was one of the few to receive this)
 - Jab 1s should all have the ability to jab lock
 - Multihit aerials should be as consistent as possible
