@@ -13,5 +13,54 @@ caption:
 
 # Overview 
 
-One of the echoes that received a decent amount of changes, Dark Samus now acts more like a glass cannon in a similar manner to Mewtwo: strong hits but doesn't take hits well. It's recovery might be shot without a wall jump, bomb jump, or a long grapple, but Screw Attack can be used multiple times in the air. The main changes involve converting most multihits into single hits, more mobility, and less survivability. It has increased air and ground speed, but much less weight, turning from defensive powerhouse to more of an aggro character that can control space. Her nair and fair are more geared towards comboing, which could help finding a charge shot KO. Speaking of specials, Dark Samus only has access to the Hyper Missile. Hyper Missiles are like Samus's super missile, but stronger. They do leave Dark Samus more vulnerable, though. 
-Dark Samus. Shinespark is now Screw Attack, while it can't KO, you won't be put into a helpless state after using this, so you can recover similar to Bayonetta. Hyperball finally lets Metroid Crawl! However, this guts Daek Samus's easy ledge trapping and stalling powers.
+One of the echoes that received a decent amount of changes, Dark Samus now acts more like a glass cannon in a similar manner to Mewtwo: strong hits but doesn't take hits well. It's recovery might be shot without a wall jump or bombs, but Screw Attack can be used multiple times in the air. The main changes involve converting most multihits into single hits, more mobility, and less survivability. It has increased air and ground speed, but much less weight, turning from defensive powerhouse to more of an aggro character that can control space. Its nair is a decent combo starter, while its fair is a powerful finisher. For specials, Dark Samus trades the iconic Charge Shot for the Sharpnel Beam. This beam fires multiple projectiles when fully charged. Dark Samus only has access to the Hyper Missile. Hyper Missiles are like Samus's super missile, but stronger. They do leave Dark Samus more vulnerable, though. 
+
+Screw Attack is more akin to source material. While it can't KO, you won't be put into a helpless state after using this, so you can recover similar to Bayonetta. Hyperball finally lets Metroid Crawl! However, this guts Dark Samus's easy ledge trapping and stalling powers in favor of a nasty combo starter
+
+# Jab
+
+Jab 1 and 2 received the same treatment Samus got
+
+# Dash Attack 
+
+Dash Attack is now much weaker, but can be cancelled sooner
+
+# Smash Attacks
+
+Forward Smash received the same treatment as Samus
+
+# Aerials
+
+## Nair
+
+Nair is now speed up, and sends at a different angle
+
+## Fair
+
+A powerful punch that has longer startup, but increased launch power. this move is also no longer a multihit 
+
+## Bair
+
+see samus
+
+## Upair
+
+Upair starts a little later, but the move launches foes higher now 
+
+# Specials
+
+## Neutral Special (Sharpnel Beam)
+
+uhu
+
+## Side Special (Hyper Missile)
+
+can only shoot one type of missile 
+
+## Up Special 
+
+no longer sends into free fall
+
+## Down Special 
+
+ooof
