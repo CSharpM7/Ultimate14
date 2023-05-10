@@ -3,7 +3,7 @@ title: Dark Samus
 subtitle: 
 image: assets/img/chara/chara_7_samusd_00.png
 alt: Dark Samus
-changez: "true"
+changes: "true"
 
 caption:
   title:
