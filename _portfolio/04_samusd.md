@@ -51,7 +51,7 @@ Upair starts a little later, but the move launches foes higher now
 
 ## Neutral Special (Hyper Beam)
 
-Neutral Special takes 5 seconds to fully charge up. The uncharged version sends out a fixed damage Phazon Ball akin to Charge Shot, but is faster. The fully charged version sends a laser that covers a large area that performs multiple hits, and then launches opponents. It deals more damage than Charge Shot, but due to its relatively low knockback, will KO much later. During the beam shot, Dark Samus has super armor. The laser can be absorbed and reflected, but Dark Samus will often not take the full damage
+Neutral Special takes 5 seconds to fully charge up. The uncharged version sends out a fixed damage Phazon Ball akin to Charge Shot, but is faster. The fully charged version sends a paralyzing laser that covers a long, but narrow range. It deals more damage than Charge Shot, but due to its relatively low knockback, will KO much later. During the beam shot, Dark Samus has heavy armor. The laser can be absorbed and reflected.
 
 ## Side Special (Hyper Missile)
 

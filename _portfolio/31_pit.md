@@ -19,7 +19,7 @@ Uh
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Forward Tlt** | | Tipper hitbox now takes priority, though the width of it has been shrunken slightly. Players will be able to hit the tipper more consistently now. |
+| **Forward Tilt** | | Tipper hitbox now takes priority, though the width of it has been shrunken slightly. Players will be able to hit the tipper more consistently now. |
 | **Up Tilt** | | first hitbox has been lowered |
 |  |  |  |
 | **Neutral Air** | | Start up increased (4->6) |
