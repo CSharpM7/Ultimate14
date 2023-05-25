@@ -59,8 +59,10 @@ Let's be honest, this is what you came here for. There might be quite a few chan
 | | | Minecart cannot grab opponents when the minecart is airborne |
 | **Down Special** | | First explosion hitbox deals damage to Steve |
 
-# Crafting Mechanics
+## Crafting Mechanics
 
+| |  |  |
+| :----------- | :-----: | ----------- |
 | **Crafting Table** | | Crafting Table will now received 1/4th hitstop from attacks, instead of 1/2th |
 | | | Crafting Table can no longer be summoned with Iron |
 | | | Crafting Table now requires more materials to summon (4->6 Stone, 2->4 Wood) |
