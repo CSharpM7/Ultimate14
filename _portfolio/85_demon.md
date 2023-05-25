@@ -13,7 +13,7 @@ caption:
 
 # Overview 
 
-This character was the result of crunch, which is a real shame. On paper,  this character is honestly decently designed to allow for some amazing player expression. Alas, put him alongside the rest of the cast of Ultimate, and that's when things look a bit fuzzy. These balance changes help to soothe over that extra bit of crunch, making Kazuya less "Luigi" and more "Sheik"
+This character was the result of crunch, and now we have the technology to remedy that. Kazuya is still an overall strong fighter, but his hitboxes have been soothed over, Electric Wind God Fist and Left Splits Kick act a little more like its Tekken counterpart, and Kazuya was made slightly more mobile.
 
 ## Stats
 
@@ -23,7 +23,6 @@ This character was the result of crunch, which is a real shame. On paper,  this 
 |  | |  |
 | **Weight** | | Reduced Slightly (112->110) |
 |  | |  |
-
 
 ## Moveset
 
@@ -42,13 +41,14 @@ This character was the result of crunch, which is a real shame. On paper,  this 
 |  |  | Reduced inward range on non-downed hitboxes |
 |  |  | Reduced additional hitstun (16->12) |
 |  |  |  |
+| **Up Smash** | | Knockback gain reduced |
+|  |  |  |
 | **(Electric) Wind God Fist** | | Electric version **no longer paralyzes.** Instead, it has an electric effect and altered hit sound effect. Kazuya can still combo into Up Smash at late percent, but now the window is much tighter. |
 |  |  | Electric added hitstun reduced (19/14->17/13) |
 |  |  | Electric damage increased (14.5/14->15.5/15) |
 |  |  | Normal Sourspot angle made slightly more vertical (73->75) |
 |  |  | Added hitstun reduced (15/13->13/10) |
 |  |  | Resolved issue that last active hitbox had additional hitstun than the rest of the move |
-| **Up Smash** | | Knockback gain reduced |
 |  |  |  |
 | **Down Special (Heaven's Door)** | | Armor now only activates on successful catch |
 |  |  | Removed non-downed attack hitboxes |
