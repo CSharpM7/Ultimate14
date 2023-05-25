@@ -24,3 +24,5 @@ Uh
 |  |  |  |
 | **Neutral Air** | | Start up increased (4->6) |
 |  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Nairs) |
+| **Down Air** | | Sweetspot size has been increased (like Pit)  |
+|  | | Sourspot starts one frame earlier |

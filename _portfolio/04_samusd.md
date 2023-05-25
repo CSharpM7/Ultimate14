@@ -17,50 +17,39 @@ One of the echoes that received a decent amount of changes, Dark Samus now acts 
 
 Screw Attack is more akin to source material. While it can't KO, you won't be put into a helpless state after using this, so you can recover similar to Bayonetta. Hyperball finally lets Metroid Crawl! However, this guts Dark Samus's easy ledge trapping and stalling powers in favor of a nasty combo starter
 
-# Jab
 
-Jab 1 and 2 received the same treatment Samus got
+# Changes
 
-# Dash Attack 
+| |  |  |
+| :----------- | :-----: | ----------- |
+| **Jab 1** | | Deals additional hitstun |
+|  |  | Can transition into Jab 2 sooner |
+| **Jab 2** | | Deals more knockback |
+|  |  |  |
+| **Dash Attack** | | Dash Attack is now much weaker, but can be cancelled sooner |
+|  |  |  |
+| **Up Tilt** | | first hitbox has been lowered |
+|  |  |  |
+| **Forward Smash** | | Increased range on sweetspot, slightly increased knockback |
+|  |  |  |
+| **Nair Air** | | A faster version of Samus's Nair that sends more upwards |
+| **Forward Air** | | A powerful Phazon punch that has increased startup, but increased knockback. This move is a single hit. |
+| **Up Air** | | Starts slightly later on frame 9, but is a single powerful kick with increased launch power. |
 
-Dash Attack is now much weaker, but can be cancelled sooner
+# New Specials
 
-# Smash Attacks
+## Neutral Special: Hyper Beam
 
-Forward Smash received the same treatment as Samus
+Neutral Special takes 8 seconds to fully charge up. The uncharged version sends out a fixed damage Phazon Ball akin to Charge Shot, but is faster. The fully charged version sends a paralyzing laser that covers a long, but narrow range. It deals more damage than Charge Shot at close range, with further ranges dealing weaker damage. During the beam shot, Dark Samus has heavy armor. The laser can be absorbed and reflected, reflecting this move up close might just kill Dark Samus at 0%.
 
-# Aerials
+## Side Special: Hyper Missile
 
-## Nair
+Can only shoot the Hyper Missile, which uses the same recovery frames and animation as shooting a Super Missile does. Hyper Missiles have less homing sensitivity, but move faster. The explosion deals increased damage and has increased range.
 
-Nair is now speed up, and sends at a different angle
+## Up Special: Hyper Screw Attack
 
-## Fair
+While not actually a move from Metroid Prime 3, this version of screw attack no longer sends into free fall after use, so Dark Samus' recovery is more akin to Bayonetta...if Bayonetta also had a tether. The final hit does not kill.
 
-A powerful punch that has longer startup, but increased launch power. this move is also no longer a multihit 
+## Down Special: Hyperball
 
-## Bair
-
-see samus
-
-## Upair
-
-Upair starts a little later, but the move launches foes higher now 
-
-# Specials
-
-## Neutral Special (Hyper Beam)
-
-Neutral Special takes 5 seconds to fully charge up. The uncharged version sends out a fixed damage Phazon Ball akin to Charge Shot, but is faster. The fully charged version sends a paralyzing laser that covers a long, but narrow range. It deals more damage than Charge Shot, but due to its relatively low knockback, will KO much later. During the beam shot, Dark Samus has heavy armor. The laser can be absorbed and reflected.
-
-## Side Special (Hyper Missile)
-
-can only shoot one type of missile 
-
-## Up Special 
-
-no longer sends into free fall
-
-## Down Special 
-
-ooof
+An unorthodox take on the classic "Shine" attack, Dark Samus transforms into a ball and can crawl across the floor. The move's constant attack hitbox starts on frame 25, this attack hitbox has decent range but deals no hitstun. Dark Samus can also jump on the ground during the crawl phase, or use shield to cancel the move. Pressing Attack or Special after frame 32 will activate the "shine", a slightly larger attack that pops opponents upwards and cancels the move. There's very little recovery frames after popping the shine, so this can be used to combo into several aerials, as well as Up Tilt and Up Smash at lower percents.

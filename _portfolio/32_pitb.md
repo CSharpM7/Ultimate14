@@ -15,29 +15,22 @@ caption:
 
 Dark Pit and Dark Samus got similar changes respective to their characters: less multihits and more power. For Dark Pit though, it transforms him from Pit's intricate drag down aerial combo game to more of a streamlined one like Lucina and Sephiroth. He has to be more precise with his aerials, but they often lead into guaranteed combos or put the enemy in disadvantage. He has a new special, and one heavily modified one. Side Special has a visual overhaul using his Staff instead. Functionally it's almost identical, trading a reflector for faster startup, larger detection, and a long hitbox on activation. Up Special is a tried and true uppercut, which takes away his immaculate recovery and gives him a devasting combo finisher. Dark Pit is a new take on Pit's gameplan that sacrifices recovery and lenient hitboxes for launch power.
 
-# Tilts
 
-His forward and up tilts received the same remedies Pit has
+# Changes
 
-# Aerials
+| |  |  |
+| :----------- | :-----: | ----------- |
+| **Forward Tilt** | | Tipper hitbox now takes priority, though the width of it has been shrunken slightly. Players will be able to hit the tipper more consistently now. |
+| **Up Tilt** | | first hitbox has been lowered |
+|  |  |  |
+| **Neutral Air** | | A two hit attack that sends more upwards. This move has less landing lag than Pit's |
+| **Forward Air** | | An overhead swing that covers more range, but doesn't last as long |
+| **Up Air** | | The classic swordsman upair, launches foes further than before, but cannot drag down opponents |
+| **Down Air** | | Sweetspot has been increased, and the sourspots now send horizontally  |
+|  | | Sourspot starts one frame earlier |
+|  | | |
 
-## Neutral Air
-
-A two hit attack that sends opponents more upwards than before. While it deals less damage, it has less landing lag
-
-## Forward Air
-
-An overhead sword swing that covers more range than before, but at the cost of active frames. 
-
-## Up Air
-
-The classic swordsman upair, launches foes further than before, but cannot drag down opponents 
-
-## Down Air
-
-Visually identical, but the sweetspot has been increased (like Pit) and the sourspots now send horizontally 
-
-# Specials
+# New Specials
 
 ## Side Special (Staff Burst)
 
@@ -46,6 +39,3 @@ Can no longer reflect, has faster startup, and deals more damage
 ## Up Special (Electroshocker)
 
 Has heavy armor on frames.
-
-
-
