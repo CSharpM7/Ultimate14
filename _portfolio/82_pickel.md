@@ -17,6 +17,15 @@ Let's be honest, this is what you came here for. There might be quite a few chan
 
 # Changes
 
+## Stats
+
+| |  |  |
+| :----------- | :-----: | ----------- |
+| **Weight** | | Reduced (92->83) |
+|  | |  |
+
+## Moveset
+
 - For axe and pickaxe attacks, only the weapon's head uses the specific material hitboxes. The handles have the same properties as the wood variant. The handle hitbox sizes are often reduced, as that hitbox traditionally takes priority over the sweetspot
 - Up Smash changes are experimental
 
