@@ -30,8 +30,6 @@ Dark Pit and Dark Samus got similar changes respective to their characters: less
 |  | | Sourspot starts one frame earlier |
 |  | | |
 
-# New Specials
-
 ## Side Special (Staff Burst)
 
 Can no longer reflect, has faster startup, and deals more damage 
