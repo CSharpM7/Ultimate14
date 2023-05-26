@@ -18,7 +18,7 @@ Let's be honest, this is what you came here for. There might be quite a few chan
 
 # Changes
 
-- For axe and pickaxe attacks, only the weapon's head uses the specific material hitboxes. The handles have the same properties as the wood variant. The handle hitbox sizes are often reduced, as that hitbox traditionally takes priority over the sweetspot
+- For Uptilt/Upair,Fair and Bair: only the weapon's head uses the specific material hitboxes. The handles have the same properties as the wood variant. The handle hitbox sizes are also reduced, as that hitbox traditionally takes priority over the sweetspot
 - Up Smash changes are experimental
 
 | |  |  |
@@ -30,16 +30,16 @@ Let's be honest, this is what you came here for. There might be quite a few chan
 | **Up Tilt / Up Air** | | Total frames increased (12->16 for gold, 16->22 for others). This adds 2 frames to startup. |
 | | | Damage reduced by 1% |
 |  |  |  |
-| **Forward Air** | | Damage reduced by 1.25% |
-| **Up Smash** | | Buckle up, cause this is gonna get REAL weird. |
-| | | Players can now break the Magma block with a direct attack from frames 9 to 48. Doing so will make Steve skip to the mining animation of the attack, with no finishing hitbox. Steve will endure 18 recovery frames from this which leaves Steve slightly less open. |
-| | | After the Magma block is unintentionally broken, a flinchless 6% hitbox will spawn for 2 frames, which will hurt players that don't use disjoints |
-| | | Magma block doesn't interact with most other projectiles. |
-| | | Final hit will degrade weapon durability by 7.5 (Forward and Back Air degrade by 6.5). If the current weapon is wood, weapon durability receives double degradation. If the current weapon is punch, Steve gets his little hand burnt :( |
+| **Forward Smash** | | Damage reduced by 1.25% |
+| **Up Smash** | | Start up increased (8->10) |
 | | | Final hit damage increased (14->16) |
 | | | Final hit knockback reduced |
 | | | Sourspot now exists when no pickaxe is equipped |
 | | | Sourspot active frames adjusted, now activates 4 frames before main hitbox, and gets removed 3 frames after main hitbox gets removed. Can launch opponents into the main hitbox from behind so...becareful. |
+| | | Final hit will degrade weapon durability by 7.5 (Forward and Back Air degrade by 6.5). If the current weapon is wood, weapon durability receives double degradation. If the current weapon is punch, Steve gets his little hand burnt :( |
+| | | Buckle up, cause this is gonna get REAL weird. |
+| | | Players can now break the Magma block with a direct attack. Doing so will make Steve skip to the mining animation of the attack, with no finishing hitbox. Steve will endure 18 recovery frames from this which leaves Steve slightly less open. |
+| | | After the Magma block is unintentionally broken, a 6% hitbox will spawn for 2 frames, which will hurt players that don't use disjoints, dealing minor knockback |
 | **Down Smash** | | Sends upwards instead of outwards |
 |  |  |  |
 | **Forward Air** | | Damage reduced by 1.5% |
@@ -49,7 +49,7 @@ Let's be honest, this is what you came here for. There might be quite a few chan
 |  |  |  |
 | **Side Special** | | Startup increased |
 | **Minecart** | | Minecart's grab strength decreased |
-| | | Powered Minecart knockback dealt decreased |
+| | | Powered Minecart knockback decreased |
 | | | Minecart cannot grab opponents when the minecart is airborne |
 | **Down Special** | | First explosion hitbox deals damage to Steve |
 
