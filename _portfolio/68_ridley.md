@@ -22,23 +22,28 @@ Ridley sits in a very unique spot in the 13 meta: he goes toe-to-toe with many t
 | **Stats** | | Weight Increased |
 |  |  | Hitbox moved slightly forward |
 |  |  | [(Air Speed Increased)](mechanics#nairs) |
-| **Forward Smash** | | First Active Frame Increased |
+| **Forward Tilt** | | Hitbox placements slightly adjusted |
+| **Up Tilt** | | Knockback gain decreased |
+| **Down Tilt** | | Knockback adjusted to work better as a combo tool |
+|  |  |  |
+| **Forward Smash** | | Recovery frames increased |
 | **Up Smash** | | Active Frames decreased |
 | **Down Smash** | | First Active Frame Increased |
-|  |  | KBG Increased |
 |  |  |  |
 | **Neutral Air** | | Landing Lag Decreased |
-|  |  | KBG Increased |
+|  |  | Knockback gain Increased |
 | **Forward Air** | | Landing Lag Decreased |
-| **Back Air** | | KBG Increased |
+| **Back Air** | | Knockback Increased |
 |  |  | Damage Increased |
 | **Up air** | | Landing Lag Decreased |
 |  |  | Sweetspot KBG Increased |
 |  |  |  |
 | **Plasma Breath (Neutral Special)** | | Damage decreased |
-| **Space Pirate Rush** | | First Active Frame on Jump Cancel decreased |
-|  |  | KBG increased |
-| **Wing Blitz (Up Special)** | | Damage decreased |
+| **Space Pirate Rush** | | Start Up Decreased |
+|  |  | Recovery frames on fail and on jump cancel decreased |
+|  |  | Knockback increased |
+|  |  | Throw damage decreased, Drag damage per second increased |
+| **Wing Blitz (Up Special)** | | Damage decreased on Forward, Back and Up angles |
 | **Skewer (Down Special)** | | Sweetspot deals additional shield damage |
 | **Down Throw** | | KBG increased, BKB slightly decreased |
 | **Up Throw** | | BKB decreased |
