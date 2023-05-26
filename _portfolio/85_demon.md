@@ -15,19 +15,12 @@ caption:
 
 This character was the result of crunch, and now we have the technology to remedy that. Kazuya is still an overall strong fighter, but his hitboxes have been soothed over, Electric Wind God Fist and Left Splits Kick act a little more like its Tekken counterpart, and Kazuya was made slightly more mobile.
 
-## Stats
+# Changes
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Jump Squat** | | Reduced (6->5)  |
-|  | |  |
-| **Weight** | | Reduced Slightly (112->110) |
-|  | |  |
-
-## Moveset
-
-| |  |  |
-| :----------- | :-----: | ----------- |
+| **Stats** | | Jumpsquat reduced (6->5) |
+|  |  | Weight reduced (112->110) |
 | **66A (Left Splits Kick):** | | Reflector power reduced (2.4x->2.0x) |
 | Reflector |  | Reflector speed reduced (1.8x->1.5x) |
 |  |  | Reflector size reduced |
