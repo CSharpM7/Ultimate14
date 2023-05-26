@@ -15,7 +15,6 @@ caption:
 
 Let's be honest, this is what you came here for. There might be quite a few changes here, but nothing that puts Steve out of the running for Top 5. The two biggest changes are to UpTilt and Weapon Hitboxes. UpTilt is made slower, so you can't just hold the A button. Its aerial counterpart acts more like its grounded variant, which means Up Tilt ladders end sooner. Weapon sourspots now no longer get upgraded alongside the current material. In practice, it won't change too much, but this does make it so Diamond Back Air's armpit hitbox won't kill until much later. Across the board, Steve has receieved slight damage reducations (apart from Up Smash which now acts like a high damaging ender). Minecart also cannot gimp as easily, as when airborne, minecart loses its grab hitbox. As a conselation prize, blocks now decay less when you stand on them, and they also decay less over time.
 
-# Changes
 
 ## Stats
 
