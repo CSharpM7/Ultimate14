@@ -16,20 +16,15 @@ caption:
 Let's be honest, this is what you came here for. There might be quite a few changes here, but nothing that puts Steve out of the running for Top 5. The two biggest changes are to UpTilt and Weapon Hitboxes. UpTilt is made slower, so you can't just hold the A button. Its aerial counterpart acts more like its grounded variant, which means Up Tilt ladders end sooner. Weapon sourspots now no longer get upgraded alongside the current material. In practice, it won't change too much, but this does make it so Diamond Back Air's armpit hitbox won't kill until much later. Across the board, Steve has receieved slight damage reducations (apart from Up Smash which now acts like a high damaging ender). Minecart also cannot gimp as easily, as when airborne, minecart loses its grab hitbox. As a conselation prize, blocks now decay less when you stand on them, and they also decay less over time.
 
 
-## Stats
-
-| |  |  |
-| :----------- | :-----: | ----------- |
-| **Weight** | | Reduced (92->83) |
-|  | |  |
-
-## Moveset
+# Changes
 
 - For axe and pickaxe attacks, only the weapon's head uses the specific material hitboxes. The handles have the same properties as the wood variant. The handle hitbox sizes are often reduced, as that hitbox traditionally takes priority over the sweetspot
 - Up Smash changes are experimental
 
 | |  |  |
 | :----------- | :-----: | ----------- |
+| **Stats** | | Weight reduced (92->83) |
+|  | |  |
 | **Jab / Forward Tilt / Neutral Air / Short Hop Forward Air / Short Hop Back Air** | | Durability degradation increased (2->3) |
 | | | Base knockback increased |
 | **Up Tilt / Up Air** | | Total frames increased (12->16 for gold, 16->22 for others). This adds 2 frames to startup. |
