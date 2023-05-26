@@ -16,30 +16,18 @@ caption:
 
 This character breaks some of the rules I've set, so take these changes as experimental.
 
-## Stats
+# Changes
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Run Speed** | | Increased |
-|  | |  |
-| **Air Speed (X)** | | Increased |
-|  | |  |
-| **Weight** | | Increased (79->91) |
-|  | |  |
-
-## Wing Stats
-
-| |  |  |
-| :----------- | :-----: | ----------- |
-| **Damage Bonus** | | Reduced (1.3->1.1) |
-| **Run Speed Bonus** | | Reduced |
-| **New Additions** | | Increases shield durability |
+| **Base Stats** | | Run Speed Increased |
+| | | Air Speed(X) Increased |
+|  | | Weight Increased (79->91) |
+| **Wing Stats** | | Damage Bonus Reduced (1.3->1.1) |
+| | | Run Speed Bonus Reduced |
+| | | Increases shield durability |
 |  | | Unlocks Gigaflare and Octaslash |
-
-## Moveset
-
-| |  |  |
-| :----------- | :-----: | ----------- |
+|  | |  |
 | **Forward Tilt** | | Animation sped up |
 | **Up Tilt** | | Animation sped up |
 | **Down Tilt** | | Start up decreased |
