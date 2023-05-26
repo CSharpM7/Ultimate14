@@ -36,7 +36,6 @@ Screw Attack is more akin to source material. While it can't KO, you won't be pu
 | **Forward Air** | | A powerful Phazon punch that has increased startup, but increased knockback. This move is a single hit. |
 | **Up Air** | | Starts slightly later on frame 9, but is a single powerful kick with increased launch power. |
 
-# New Specials
 
 ## Neutral Special: Hyper Beam
 
