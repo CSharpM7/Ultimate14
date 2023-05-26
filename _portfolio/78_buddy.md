@@ -19,38 +19,40 @@ The character with the most changes to Ultimate 14, these changes help bring Ban
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Forward Tlt** | | Damage Increased |
+| **Forward Tilt** | | Damage Increased |
+|  |  | Recovery frames decreased |
 |  |  | Hitbox moved slightly forward |
 | **Up Tilt** | | Start Up Increased by 1 frame |
-|  |  | New hitbox on base of Banjo |
-|  |  | First Active Frame increased |
-| **Down Tlt** | | Angle Increased |
+|  |  | New launching hitbox on base of Banjo |
+|  |  | Recovery frames increased |
+| **Down Tlt** | | Sends slightly more vertically |
 |  |  |  |
-| **Forward Smash** | | First Active Frame Increased |
+| **Forward Smash** | | Recovery frames increased |
 | **Up Smash** | | Start Up Increased |
-|  |  | Shield Damage increased |
-|  |  | KBG of last hit increased |
-| **Down Smash** | | First Active Frame Increased |
+|  |  | Shield damage increased |
+|  |  | Knockback growth of last hit increased |
+| **Down Smash** | | Recovery frames Increased |
 |  |  |  |
 | **Neutral Air** | | Always sends forward |
-|  |  | Landing Lag Decreased (16->13) |
+|  |  | Landing Lag decreased (16->13) |
 |  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Nairs) |
-| **Forward Air** | | Landing Lag Increased (11->13) |
+| **Forward Air** | | Landing Lag increased (11->13) |
 | **Back Air** | | Landing Lag Decreased (18->14) |
-|  |  | Damage Increased |
+|  |  | Damage increased |
 | **Up air** | | Landing Lag Decreased (12->10) |
-|  |  | Damage Increased |
+|  |  | Damage increased |
 |  |  |  |
-| **Breegull Blaster (N. Special Stance)** | | Cancel First Active Frame decreased |
+| **Breegull Blaster (N. Special Stance)** | | Kazooie unequip recovery frames decreased (12->8) |
 |  |  | Weaker eggs begin later |
 |  |  | Shield safety of eggs decreased |
-| **Wonder Wing** | | KBG decreased |
-|  |  | First Active Frame Decreased |
+|  |  | Can perform Forward Tilt (Beak Bayonet) by inputting a smash attack (This also removes Kazooie Fast Cancelling) |
+| **Wonder Wing** | | Knockback decreased |
+|  |  | Recovery frames decreased |
 | **Shock Spring Jump** | | Pad hitbox increased |
 |  |  | Minimum launch time decreased |
-| **Grenegg (Down Special)** | | Grenegg Damage decreased |
+| **Rear Egg / Grenade Egg / "Grenegg" (Down Special)** | | Egg damage decreased |
 |  |  | Can now hold grab to automatically equip grenegg |
 |  |  | Timer increased |
 |  |  |  |
-| **Up Throw** | | KBG decreased |
+| **Up Throw** | | Knockback decreased |
 |  |  | First Active Frame Decreased |
