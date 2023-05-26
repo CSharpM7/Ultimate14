@@ -16,8 +16,6 @@ caption:
 
 This character breaks some of the rules I've set, so take these changes as experimental.
 
-# Changes
-
 ## Stats
 
 | |  |  |
