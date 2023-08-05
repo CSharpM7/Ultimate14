@@ -20,15 +20,15 @@ The character with the most changes to Ultimate 14, these changes help bring Ban
 | |  |  |
 | :----------- | :-----: | ----------- |
 | **Forward Tilt** | | Damage Increased |
-|  |  | Recovery frames decreased |
+|  |  | BKB and KBG increased |
 |  |  | Hitbox moved slightly forward |
 | **Up Tilt** | | Start Up Increased by 1 frame |
 |  |  | New launching hitbox on base of Banjo |
 |  |  | Recovery frames increased |
-| **Down Tlt** | | Sends slightly more vertically |
+| **Down Tlt** | | Active frames decreased by 1 |
 |  |  |  |
 | **Forward Smash** | | Recovery frames increased |
-| **Up Smash** | | Start Up Increased |
+| **Up Smash** | | Start Up Increased (8->10) |
 |  |  | Shield damage increased |
 |  |  | Knockback growth of last hit increased |
 | **Down Smash** | | Recovery frames Increased |
@@ -39,20 +39,15 @@ The character with the most changes to Ultimate 14, these changes help bring Ban
 | **Forward Air** | | Landing Lag increased (11->13) |
 | **Back Air** | | Landing Lag Decreased (18->14) |
 |  |  | Damage increased |
-| **Up air** | | Landing Lag Decreased (12->10) |
-|  |  | Damage increased |
+| **Up air** | | Damage increased |
 |  |  |  |
 | **Breegull Blaster (N. Special Stance)** | | Kazooie unequip recovery frames decreased (12->8) |
-|  |  | Weaker eggs begin later |
-|  |  | Shield safety of eggs decreased |
 |  |  | Can perform Forward Tilt (Beak Bayonet) by inputting a smash attack (This also removes Kazooie Fast Cancelling) |
 | **Wonder Wing** | | Knockback decreased |
-|  |  | Recovery frames decreased |
 | **Shock Spring Jump** | | Pad hitbox increased |
 |  |  | Minimum launch time decreased |
 | **Rear Egg / Grenade Egg / "Grenegg" (Down Special)** | | Egg damage decreased |
 |  |  | Can now hold grab to automatically equip grenegg |
 |  |  | Timer increased |
 |  |  |  |
-| **Up Throw** | | Knockback decreased |
-|  |  | First Active Frame Decreased |
+
