@@ -27,11 +27,11 @@ Ridley sits in a very unique spot in the 13 meta: he goes toe-to-toe with many t
 | **Down Tilt** | | Knockback adjusted to work better as a combo tool |
 |  |  |  |
 | **Forward Smash** | | Recovery frames increased |
-| **Up Smash** | | Active Frames decreased |
+| **Up Smash** | | Active Frames shifted earlier by one frame |
 | **Down Smash** | | First Active Frame Increased |
 |  |  |  |
 | **Neutral Air** | | Landing Lag Decreased |
-|  |  | Knockback gain Increased |
+|  |  | Knockback Gain Increased |
 | **Forward Air** | | Landing Lag Decreased |
 | **Back Air** | | Knockback Increased |
 |  |  | Damage Increased |
@@ -46,5 +46,3 @@ Ridley sits in a very unique spot in the 13 meta: he goes toe-to-toe with many t
 | **Wing Blitz (Up Special)** | | Damage decreased on Forward, Back and Up angles |
 | **Skewer (Down Special)** | | Sweetspot deals additional shield damage |
 | **Down Throw** | | KBG increased, BKB slightly decreased |
-| **Up Throw** | | BKB decreased |
-|  |  | First Active Frame Decreased |

@@ -46,6 +46,7 @@ Let's be honest, this is what you came here for. There might be quite a few chan
 | **Back Air** | | Damage reduced by 1.5% |
 | **Up Air** | | Frame Data and Animation now matches Up Tilt (increasing total frames). Note that this does not allow Steve to build a block below him to create UpTilt Ladder Combos as easily as before. |
 | **Down Air** | | No longer stalls in the air when Anvil fails to spawn. |
+| | | Landing hitbox damage decreased |
 |  |  |  |
 | **Side Special** | | Startup increased |
 | **Minecart** | | Minecart's grab strength decreased |

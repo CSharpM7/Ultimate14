@@ -14,7 +14,7 @@ caption:
 
 # Overview 
 
-This character breaks some of the rules I've set, so take these changes as experimental.
+
 
 # Changes
 
@@ -22,27 +22,29 @@ This character breaks some of the rules I've set, so take these changes as exper
 | :----------- | :-----: | ----------- |
 | **Base Stats** | | Run Speed Increased |
 | | | Air Speed(X) Increased |
-|  | | Weight Increased (79->91) |
+| | | Weight Increased (79->91) |
 | **Wing Stats** | | Damage Bonus Reduced (1.3->1.1) |
 | | | Run Speed Bonus Reduced |
-| | | Increases shield durability |
-|  | | Unlocks Gigaflare and Octaslash |
+| | | Increases shield max health |
 |  | |  |
-| **Forward Tilt** | | Animation sped up |
 | **Up Tilt** | | Animation sped up |
-| **Down Tilt** | | Start up decreased |
-| | | Slide speed decreased |
+| **Down Tilt** | | Slide speed decreased |
 |  | |  |
-| **Neutral Air** | | Now has sourspots |
-| | | Landing Lag reduced |
-| **Forward Air** | | Animation sped up |
+| **Forward Smash** | | Knockback increased |
+| **Down Smash** | | Shield damage increased on grounded sweetspot |
+|  | | |
+| **Neutral Air** | | Now has a late hitbox |
+| **Forward Air** | | Landing Lag reduced |
+| | | Wall Stick FAF reduced |
+| | | Pogo Jump FAF reduced |
+| **Back Air** | | Knockback decreased |
 | | | Landing Lag reduced |
 | **Up Air** | | Sephiroth no longer breaks his kneecaps upon landing (Landing lag reduced) |
-|  | |  |
-| **Neutral Special** | | Gigaflare locked behind Wing |
+|  | | |
 | **Side Special** | | Start up increased |
-| | | Has additional hitstun |
-| **Up Special** | | Octaslash locked behind Wing |
-| | | Blade Dash and Octaslash recovery frames reduced |
-| **Up Special** | | Counter multiplier decreased |
+| | | Deals additional hitstun |
+| | | During Wing, level 2 and 3 charges deal additional knockback |
+| **Up Special** | | Blade Dash and Octaslash recovery (and landing) frames reduced |
+| | | Hitstop reduced on Octaslash |
+| **Down Special** | | Counter multiplier decreased |
 | | | Counter Flash size decreased |

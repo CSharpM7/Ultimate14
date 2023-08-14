@@ -20,3 +20,7 @@ Side collisions have been fixed, camera has been pulled back
 ### Spring Stadium
 
 Ceiling collision removed
+
+### Small Battlfield
+
+Blastzones decreased

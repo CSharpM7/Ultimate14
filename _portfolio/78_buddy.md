@@ -20,8 +20,6 @@ The character with the most changes to Ultimate 14, these changes help bring Ban
 | |  |  |
 | :----------- | :-----: | ----------- |
 | **Forward Tilt** | | Damage Increased |
-|  |  | Recovery frames decreased |
-|  |  | Hitbox moved slightly forward |
 | **Up Tilt** | | Start Up Increased by 1 frame |
 |  |  | New launching hitbox on base of Banjo |
 |  |  | Recovery frames increased |
@@ -29,7 +27,6 @@ The character with the most changes to Ultimate 14, these changes help bring Ban
 |  |  |  |
 | **Forward Smash** | | Recovery frames increased |
 | **Up Smash** | | Start Up Increased |
-|  |  | Shield damage increased |
 |  |  | Knockback growth of last hit increased |
 | **Down Smash** | | Recovery frames Increased |
 |  |  |  |
