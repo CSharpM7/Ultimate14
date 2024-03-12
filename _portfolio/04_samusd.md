@@ -28,8 +28,6 @@ Screw Attack is more akin to source material. While it can't KO, you won't be pu
 |  |  |  |
 | **Dash Attack** | | Dash Attack is now much weaker, but can be cancelled sooner |
 |  |  |  |
-| **Up Tilt** | | first hitbox has been lowered |
-|  |  |  |
 | **Forward Smash** | | Increased range on sweetspot, slightly increased knockback |
 |  |  |  |
 | **Nair Air** | | A faster version of Samus's Nair that sends more upwards |
@@ -45,9 +43,9 @@ Neutral Special takes 8 seconds to fully charge up. The uncharged version sends 
 
 Can only shoot the Hyper Missile, which uses the same recovery frames and animation as shooting a Super Missile does. Hyper Missiles have less homing sensitivity, but move faster. The explosion deals increased damage and has increased range.
 
-## Up Special: Hyper Screw Attack
+## Up Special: Hyper Shinespark
 
-While not actually a move from Metroid Prime 3, this version of screw attack no longer sends into free fall after use, so Dark Samus' recovery is more akin to Bayonetta...if Bayonetta also had a tether. The final hit does not kill.
+Similar to Fire Fox, this move doesn't have a startup hitbox, but does have a strong, singlehit launcher on movement. This move also doesn't go extremely far, but uniquely has fast startup for a Fire Fox type move.
 
 ## Down Special: Hyperball
 

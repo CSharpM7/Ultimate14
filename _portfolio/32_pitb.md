@@ -36,4 +36,8 @@ Can no longer reflect, has faster startup, and deals more damage
 
 ## Up Special (Electroshocker)
 
-Has heavy armor on frames.
+Similar to Roy's Up Special
+
+## Down Special (Summon Orbiter)
+
+Similar to Palutena's Reflection Board

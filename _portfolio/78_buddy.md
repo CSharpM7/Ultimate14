@@ -3,7 +3,7 @@ title: Banjo & Kazooie
 subtitle: 
 image: assets/img/chara/chara_7_buddy_00.png
 alt: Banjo & Kazooie
-changes: "true"
+changes: "false"
 
 caption:
   title:
@@ -13,22 +13,18 @@ caption:
 
 # Overview
 
-The character with the most changes to Ultimate 14, these changes help bring Banjo out of the "Smash 4" character design, and back into Ultimate. While there are a plethora of changes, there's a solid mix of buffs and nerfs. Buffs often help his subpar damage output, or add to his comboing capabilities. Nerfs often focus on the relatively low recovery frames Banjo has on his strongest attacks, or slightly nerfing his reversal options while trying to recover.
+ While there are a plethora of changes, there's a solid mix of buffs and nerfs. Buffs often help his subpar damage output (characterized by Kazooie hitboxes) or his absurd landing lag. Nerfs target some of his faster out of shield options, as well as a slight nerf to stalling 
 
 # Changes
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Forward Tilt** | | Damage Increased |
-| **Up Tilt** | | Start Up Increased by 1 frame |
-|  |  | New launching hitbox on base of Banjo |
+| **Up Tilt** | | New weaker hitbox on base of Banjo |
 |  |  | Recovery frames increased |
 | **Down Tlt** | | Active frames decreased by 1 |
 |  |  |  |
-| **Forward Smash** | | Recovery frames increased |
-| **Up Smash** | | Start Up Increased |
+| **Up Smash** | | Start Up Increased by 1 |
 |  |  | Knockback growth of last hit increased |
-| **Down Smash** | | Recovery frames Increased |
 |  |  |  |
 | **Neutral Air** | | Always sends forward |
 |  |  | Landing Lag decreased (16->13) |
@@ -40,7 +36,6 @@ The character with the most changes to Ultimate 14, these changes help bring Ban
 |  |  |  |
 | **Breegull Blaster (N. Special Stance)** | | Kazooie unequip recovery frames decreased (12->8) |
 |  |  | Can perform Forward Tilt (Beak Bayonet) by inputting a smash attack (This also removes Kazooie Fast Cancelling) |
-| **Wonder Wing** | | Knockback decreased |
 | **Shock Spring Jump** | | Pad hitbox increased |
 |  |  | Minimum launch time decreased |
 | **Rear Egg / Grenade Egg / "Grenegg" (Down Special)** | | Egg damage decreased |

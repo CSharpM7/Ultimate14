@@ -20,14 +20,13 @@ One of the characters that received the most changes in Ultimate 14, most of whi
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Stats** | | Weight reduced (92->83) |
+| **Stats** | | Weight reduced (104->94) |
 | | | Air Speed (x) increased |
 | | |  |
 | **Down Tit** | | Slide distance decreased |
 | | | |
 | **Dash Attack** | | Start up increased |
 | | | Recovery frames increased |
-| | | Knockback decreased |
 | | | |
 | **Up Smash** | | Start up increased |
 | | | Reflector now only active on legs |

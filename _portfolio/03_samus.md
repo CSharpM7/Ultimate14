@@ -3,7 +3,7 @@ title: Samus
 subtitle: 
 image: assets/img/chara/chara_7_samus_00.png
 alt: Samus
-changes: "true"
+changes: "false"
 
 caption:
   title:

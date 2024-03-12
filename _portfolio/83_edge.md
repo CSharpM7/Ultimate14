@@ -3,7 +3,7 @@ title: Sephiroth
 subtitle: 
 image: assets/img/chara/chara_7_edge_00.png
 alt: Sephiroth
-changes: "true"
+changes: "false"
 
 caption:
   title:
@@ -14,7 +14,7 @@ caption:
 
 # Overview 
 
-
+Sephiroth's main feature in Ultimate 14 is a slightly retooled Wing Mechanic. His base stats have been improved to be slightly closer to his original Winged stats, while his winged stats are closer to his new base stats. Wing now acts more like an extra defensive mechanic, rather than a true comeback mechanic, as the damage bonus has been reduced notably, but he now receives increased shield health.
 
 # Changes
 
@@ -31,19 +31,17 @@ caption:
 | **Down Tilt** | | Slide speed decreased |
 |  | |  |
 | **Forward Smash** | | Knockback increased |
+| | | Now has full priority on the move |
 | **Down Smash** | | Shield damage increased on grounded sweetspot |
 |  | | |
 | **Neutral Air** | | Now has a late hitbox |
-| **Forward Air** | | Landing Lag reduced |
-| | | Wall Stick FAF reduced |
+| **Forward Air** | | Wall Stick FAF reduced |
 | | | Pogo Jump FAF reduced |
 | **Back Air** | | Knockback decreased |
-| | | Landing Lag reduced |
 | **Up Air** | | Sephiroth no longer breaks his kneecaps upon landing (Landing lag reduced) |
 |  | | |
 | **Side Special** | | Start up increased |
 | | | Deals additional hitstun |
-| | | During Wing, level 2 and 3 charges deal additional knockback |
 | **Up Special** | | Blade Dash and Octaslash recovery (and landing) frames reduced |
 | | | Hitstop reduced on Octaslash |
 | **Down Special** | | Counter multiplier decreased |
