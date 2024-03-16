@@ -3,7 +3,6 @@ title: Marth
 subtitle: 
 image: assets/img/chara/chara_7_marth_00.png
 alt: Marth
-changes: "true"
 
 caption:
   title:

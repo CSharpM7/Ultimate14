@@ -3,7 +3,6 @@ title: Kazuya
 subtitle: 
 image: assets/img/chara/chara_7_demon_00.png
 alt: Kazuya
-changes: "false"
 
 caption:
   title:

@@ -3,7 +3,6 @@ title: Banjo & Kazooie
 subtitle: 
 image: assets/img/chara/chara_7_buddy_00.png
 alt: Banjo & Kazooie
-changes: "false"
 
 caption:
   title:

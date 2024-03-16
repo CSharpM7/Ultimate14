@@ -28,5 +28,6 @@ Similar to Banjo, this DLC character doesn't QUITE have the "DLC" feeling. Most 
 | **Up air** | | Startup decreased to Frame 5 |
 |  |  | First Active Frame decreased to Frame 35 |
 |  |  |  |
+| **Side Special** | | If Plant uses an empty side special near its own poison cloud, the poison cloud will get pushed further |
 | **Piranha Copter" (Up Special)** | | Distance reduced |
 

@@ -3,7 +3,6 @@ title: Min Min
 subtitle: 
 image: assets/img/chara/chara_7_tantan_00.png
 alt: Min Min
-changes: "true"
 
 caption:
   title:
@@ -53,12 +52,12 @@ One of the characters that received the most changes in Ultimate 14, most of whi
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **RamRam** | | Ram Ram now launches upwards, with the Projectile launching more vertically after disengaging from the arm |
+| **RamRam** | | Ram Ram now launches upwards, with the Projectile launching less vertically after disengaging from the arm |
 | | | Knockback decreased |
 | | | Nair Landing Lag: 11 Frames |
 | **Megawatt** | | Smash and Charged attacks deal less damage |
 | | | Has more significant rewind frames |
 | | | Nair Landing Lag: 15 Frames |
-| **Dragon** | | Smash and Charged attacks should properly link into the laser beam |
+| **Dragon** | | Laser Detection range decreased |
 | | | Launches slightly more vertically |
 | | | Nair Landing Lag: 12 Frames |

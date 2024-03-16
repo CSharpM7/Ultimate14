@@ -3,7 +3,6 @@ title: Sephiroth
 subtitle: 
 image: assets/img/chara/chara_7_edge_00.png
 alt: Sephiroth
-changes: "false"
 
 caption:
   title:

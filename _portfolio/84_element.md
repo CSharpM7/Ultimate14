@@ -15,7 +15,7 @@ caption:
 
 
 # Art Cancelling
-Either Aegis sister can cancel the last 75% of a normal, or a throw, into Switch. Mythra can cancel all specials (and Pyra can cancel all but Side Special) into another special 15 frames after the attack finishes (once per special). Have fun.
+Either Aegis sister can cancel the last 75% of a normal, or a throw, into Switch. Mythra can cancel all specials (and Pyra can cancel all but Side Special)
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Pyra</h2>

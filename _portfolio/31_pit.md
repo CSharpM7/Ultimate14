@@ -3,7 +3,6 @@ title: Pit
 subtitle: 
 image: assets/img/chara/chara_7_pit_00.png
 alt: Pit
-changes: "true"
 
 caption:
   title:
