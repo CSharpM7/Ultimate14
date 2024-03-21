@@ -24,26 +24,27 @@ One of the echoes that received the most amount of changes, Dark Samus now acts 
 |  |  | Can transition into Jab 2 sooner |
 | **Jab 2** | | Deals more knockback |
 |  |  |  |
-| **Dash Attack** | | Dash Attack is now much weaker, but can be cancelled sooner |
+| **Dash Attack** | | Dash Attack is now the Boost Ball, which provides Dark Samus with a low-profiling combo attack, as opposed to Samus' stronger dash attack |
 |  |  |  |
 | **Forward Smash** | | Increased range on sweetspot, slightly increased knockback |
+| **Up Smash** | | Dark Samus uses the split kick from one of its victory poses. Moves Dark Samus backwards |
 |  |  |  |
-| **Nair Air** | | A faster version of Samus's Nair that sends more upwards |
+| **Nair Air** | | A new, singlehit screw attack |
 | **Forward Air** | | A powerful Phazon punch that has increased startup, but increased knockback. This move is a single hit. |
-| **Up Air** | | Starts slightly later on frame 9, but is a single powerful kick with increased launch power. |
+| **Up Air** | | Similar to Samus Upsmash, fires phazon above Dark Samus that is phenomenal for juggling. |
 
 
-## Neutral Special: Phazon Charge / Discharge
+## Neutral Special: Phazon Charge and Phazon Discharge, Corruption
 
-Similar to Samus's charge-based gameplan, Dark Samus can charge Phazon while holding neutral special. After the charge is complete, Dark Samus will enter Corruption. Dark Samus take small damage overtime due to over corruption, but Forward Smash, Down Smash, Forward Air, Down Air, Side Special, Down Special and Up Throw will deal poison to opponents on hit. While in Corruption, neutral special becomes a powerful explosion that gets rid of all Phazon. How much Phazon remains determines the power of this move.
+Similar to Samus's charge-based gameplan, Dark Samus can charge Phazon while holding neutral special. Getting hit during this charge, or interupting it with the Discharge attack will remove your current charge. After the charge is complete, Dark Samus will enter Corruption. Dark Samus take small damage overtime due to over corruption, but Down Tilt, Forward Smash, Forward Air, Up Air, and Up Throw will deal poison to opponents on hit. While in Corruption, neutral special becomes a powerful explosion that gets rid of all Phazon. How much Phazon remains determines the power of this move.
 
 ## Side Special: Hyper Missile
 
-Can only shoot the Hyper Missile, which uses the same recovery frames and animation as shooting a Super Missile does. Hyper Missiles have less homing sensitivity, but move faster. The explosion deals increased damage and has increased range.
+Can only shoot the Hyper Missile, which uses the same recovery frames and animation as shooting a Super Missile does. Hyper Missiles have less homing sensitivity, but move faster. The missile deals two hits: the first deals strong knockback and the following explosion deals minor, flinchless damage over time.
 
 ## Up Special: Hyper Shinespark
 
-Similar to Fire Fox, this move doesn't have a startup hitbox, but does have a strong, singlehit launcher on movement. This move also doesn't go extremely far, but uniquely has fast startup for a Fire Fox type move.
+Similar to Ridley's Wing Blitz, this move doesn't have a startup hitbox, but does have a strong, singlehit launcher on movement. Unlike Wing Blitz, Dark Samus can angle this in any direction.
 
 ## Down Special: Hyper Bomb
 
