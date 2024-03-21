@@ -24,4 +24,3 @@ caption:
 | **Forward Smash** | | Increased range on sweetspot, slightly increased knockback |
 |  |  |  |
 | **Neutral Special** | | Increased recovery frames by 10 for both charged and uncharged versions |
-| **Side Special** | | Missiles and Super Missiles have an activating hitbox that deals 2%, and a larger exploding hitbox. Exploding hitbox can also be absorbed. |
