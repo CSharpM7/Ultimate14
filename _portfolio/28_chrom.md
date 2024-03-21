@@ -27,4 +27,4 @@ An echo of an echo? Similar to Lucina, Chrom is already a very solid echo fighte
 |  |  | Landing Lag increased by 1 |
 | **Down Air** | | Sweetspot adjusted to be lower, making it resemble the sword rather than the hilt (like Roy has) |
 | | | |
-| **Up Special** | | A slightly redesigned Soaring Tempest that allows Chrom to recover more reliably. Pressing Up Special will have Chrom do an armored super jump, where he's free to grab the ledge. If you hold Special during the jump, he will transition into Aether, spinning down towards the stage (or blastzone), vacuuming foes in his path! You can either release the Special button (after 2 rotations) to do the final hit, wait ~1.5 seconds, or wait until you land. Remember that opponents can potentially SDI out of the move! ||
+| **Up Special** | | A slightly redesigned Soaring Tempest that allows Chrom to recover more reliably. Pressing Up Special will have Chrom do an armored super jump, where he's free to grab the ledge. If you hold Special during the jump, he will transition into Aether, spinning down towards the stage (or blastzone). The spin deals moderate damage and knockback |
