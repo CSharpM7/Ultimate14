@@ -40,4 +40,4 @@ Similar to Roy's Up Special
 
 ## Down Special (Summon Orbiter)
 
-Similar to Palutena's Reflection Board
+Similar to Palutena's Reflection Board, except it can only block physical attacks. Each attack will slightly slow it down
