@@ -19,4 +19,4 @@ caption:
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Down Tilt** | | Uses Smash 4 animation now |
+| **Down Tilt** | | Uses Smash 4's animation now |

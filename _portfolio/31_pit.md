@@ -3,6 +3,7 @@ title: Pit
 subtitle: 
 image: assets/img/chara/chara_7_pit_00.png
 alt: Pit
+changes: "true"
 
 caption:
   title:
@@ -12,7 +13,6 @@ caption:
 
 # Overview 
 
-Uh
 
 # Changes
 
@@ -23,5 +23,5 @@ Uh
 |  |  |  |
 | **Neutral Air** | | Start up increased (4->6) |
 |  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Nairs) |
-| **Down Air** | | Sweetspot size has been increased (like Pit)  |
+| **Down Air** | | Sweetspot size has been increased |
 |  | | Sourspot starts one frame earlier |

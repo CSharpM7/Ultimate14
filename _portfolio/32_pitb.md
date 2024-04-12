@@ -13,31 +13,24 @@ caption:
 
 # Overview 
 
-Dark Pit and Dark Samus got similar changes respective to their characters: less multihits and more power. For Dark Pit though, it transforms him from Pit's intricate drag down aerial combo game to more of a streamlined one like Lucina and Sephiroth. He has to be more precise with his aerials, but they often lead into guaranteed combos or put the enemy in disadvantage. He has a new special, and one heavily modified one. Side Special has a visual overhaul using his Staff instead. Functionally it's almost identical, trading a reflector for faster startup, larger detection, and a long hitbox on activation. Up Special is a tried and true uppercut, which takes away his immaculate recovery and gives him a devasting combo finisher. Dark Pit is a new take on Pit's gameplan that sacrifices recovery and lenient hitboxes for launch power.
+Dark Pit is a bit more of a zoner than Pit is, sporting an incredible new recovery and projectile while losing some of the long-lasting aerials. Pit's intricate drag down aerial combo game has been more streamlined akin to Lucina and Sephiroth. He has to be more precise with his aerials, but they often lead into guaranteed combos or put the enemy in disadvantage. Summon Orbiter can let Dark Pit hide behind the advancing orbitor
 
 
 # Changes
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Forward Tilt** | | Tipper hitbox now takes priority, though the width of it has been shrunken slightly. Players will be able to hit the tipper more consistently now. |
-| **Up Tilt** | | first hitbox has been lowered |
+| **Pit Changes** | | Dark Pit's Tilts, Neutral Air, Down Air share the same changes as Pit |
 |  |  |  |
-| **Neutral Air** | | A two hit attack that sends more upwards. This move has less landing lag than Pit's |
 | **Forward Air** | | An overhead swing that covers more range, but doesn't last as long |
-| **Up Air** | | The classic swordsman upair, launches foes further than before, but cannot drag down opponents |
-| **Down Air** | | Sweetspot has been increased, and the sourspots now send horizontally  |
-|  | | Sourspot starts one frame earlier |
+| **Up Air** | | The classic swordsman upair, launches foes further than before, but cannot drag down opponents. The later half of the move has a weaker hitbox that can be used to combo into moves at higher percents |
 |  | | |
 
-## Side Special (Staff Burst)
 
-Can no longer reflect, has faster startup, and deals more damage 
+## Up Special (Power of Flight)
 
-## Up Special (Electroshocker)
-
-Similar to Roy's Up Special
+The return of the legendary Brawl recovery. Gifted with Pandora's Power, Dark Pit can take full control over how he flies. While the recovery is much slower than Pit's, Dark Pit can turn midair and attack with an aerial whenever he pleases! Similar to Rob, the Villagers, and Olimar: Dark Pit will need to recharge his power by first landing. If you get hit off stage with no fuel, it might just be over for you!
 
 ## Down Special (Summon Orbiter)
 
-Similar to Palutena's Reflection Board, except it can only block physical attacks. Each attack will slightly slow it down
+Similar to Palutena's Reflection Board, except it can only block physical attacks. Each attack will slightly slow it down, and it can only block a few physical attacks before breaking. The cooldown is much longer than Pit's, and will always enter cooldown after being used. Pick when to use this move wisely...or just use it offstage.
