@@ -29,12 +29,12 @@ Dark Pit is a bit more of a zoner than Pit is, sporting an incredible new recove
 
 ## Up Special (Power of Flight)
 
-<video src="Ultimate14/assets/img/videos/pitb_specialhi.mp4" max-width="640px" controls></video>
+<video src="/assets/img/videos/pitb_specialhi.mp4" max-width="640px" controls></video>
 
 The return of the legendary Brawl recovery. Gifted with Pandora's Power, Dark Pit can take full control over how he flies. While the recovery is much slower than Pit's, Dark Pit can turn midair and attack with an aerial whenever he pleases! Similar to Rob, the Villagers, and Olimar: Dark Pit will need to recharge his power by first landing. If you get hit off stage with no fuel, it might just be over for you!
 
 ## Down Special (Summon Orbiter)
 
-<video src="Ultimate14/assets/img/videos/pitb_speciallw.mp4" max-width="640px" controls></video>
+<video src="/assets/img/videos/pitb_speciallw.mp4" max-width="640px" controls></video>
 
 Similar to Palutena's Reflection Board, except it can only block physical attacks. Each attack will slightly slow it down, and it can only block a few physical attacks before breaking. The cooldown is much longer than Pit's, and will always enter cooldown after being used. Pick when to use this move wisely...or just use it offstage.

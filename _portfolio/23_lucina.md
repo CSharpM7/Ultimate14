@@ -38,14 +38,14 @@ All non-new normals, neutral special, and up special deal 0.9x damage
 | **Down Taunt** | | Lucina's mask will stay on her face until she down taunts again. This includes keeping her mask on the results screen! |
 
 ## Jab Combo
-<video src=../assets/img/videos/lucina_jab.mp4 controls="controls" style="max-width: 730px;">
+<video src=/assets/img/videos/lucina_jab.mp4 controls="controls" style="max-width: 730px;">
 </video>
 
 Replaced with Dancing Blade combo. Rapid Jab is 4 Low, while Gentleman's is 3 Side (but with increased knockback)
 
 ## Side Special (Legendary Bow)
 
-<video src=../assets/img/videos/lucina_specials.mp4 controls="controls" style="max-width: 730px;">
+<video src=/assets/img/videos/lucina_specials.mp4 controls="controls" style="max-width: 730px;">
 </video>
 
 Lucina fires a bow and arrow at the opponent. In the air, she'll angle the bow downwards, and hop once per airtime upon firing
