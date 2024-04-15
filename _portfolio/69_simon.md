@@ -15,6 +15,7 @@ caption:
 
 Simon sports new long ranged attacks to better fit the Classicvania style of gameplay
 
+
 # Changes
 
 | |  |  |
@@ -23,5 +24,9 @@ Simon sports new long ranged attacks to better fit the Classicvania style of gam
 |  |  |  |
 | **Dash Attack** | | A charging tackle attack. The strong hit deals 12% while the weak hit deals 9.0% |
 |  |  |  |
-| **Down Air** | | Similar to Up Air, strikes his whip downwards. This move can only spike opponents if it hits a grounded opponent, or if the whip does not touch the stage. This move also can't go through the stage (unlike how Sephiroth's can), but can go through platforms. This move also cannot tether to the ledge. Deals the same damage as up air |
-| | | |
+
+
+## Down Air
+<video src=../assets/img/videos/simon_airlw.mp4 controls="controls" style="max-width: 730px;">
+</video>
+Similar to Up Air, strikes his whip downwards. This move can only spike opponents if it hits a grounded opponent, or if the whip does not touch the stage. This move also can't go through the stage (unlike how Sephiroth's can), but can go through platforms. This move also cannot tether to the ledge. Deals the same damage as up air 
