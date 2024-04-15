@@ -17,13 +17,16 @@ An echo of an echo? Similar to Lucina, Chrom is already a very solid echo fighte
 
 # Changes
 
+## Parallel Falchion Nerf
+All normals, neutral special, and side special deal 0.9x damage
+
 | |  |  |
 | :----------- | :-----: | ----------- |
 | **Dash Attack** | | Damage increased (12->12.75) |
 |  |  |  |
 | **Forward Smash** | | Damage decreased (18->16.5) |
 |  |  |  |
-| **Up Air** | | Active Frames decreased by 1 |
+| **Up Air** | | Active Frames decreased by 2 |
 |  |  | Landing Lag increased by 1 |
 | **Down Air** | | Sweetspot adjusted to be lower, making it resemble the sword rather than the hilt (like Roy has) |
 | | | |

@@ -21,9 +21,8 @@ Unlike Roy, whose sweetspot takes priority, Marth's does not, leading to a uniqu
 | :----------- | :-----: | ----------- |
 | **Dash Attack** | | Damage increased (9.0/10.0/13.0->11.0/12.0/14.5) |
 |  |  |  |
-| **Neutral Air** | | KBG Decreased by 10 |
+| **Neutral Air** | | Increased Landing Lag 2 to match Roy |
 | **Up Air** | | Active Frames increased by 1 |
-|  |  | Damage decreased (13.0/9.0->12.5/9.0) |
 |  |  | Landing Lag increased by 1 |
 | | | |
 | **Side Special 4 Upwards:** | | Decreased knockback |
