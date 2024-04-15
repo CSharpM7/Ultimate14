@@ -16,7 +16,7 @@ background: grey
 
 # Nairs
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](/assets/img/videos/simon_airlw.mp4)
+<video src="assets/img/videos/simon_airlw.mp4" width="320" height="240" controls></video>
 
 Drag-down neutral aerials have a new mechanic regarding landing hitboxes: the landing hitbox can only activate during the frames of the multihit hitboxes. This means landing before the first frame of the move, or after (or on) the launching hitbox will not spawn the landing hitbox
 
