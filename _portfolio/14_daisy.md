@@ -16,8 +16,7 @@ caption:
 The princess of sarasaland and the queen of the court is much more different than her diplomatic mushroom kingdom counterpart, and as such a decent amount has been changed about Daisy. Most notably she cannot float, but comes with a uniquely short mini jump that acts similar to float cancelling. To compensate, some of her damage output and launch power has been decreased
 
 
-<video src=/assets/img/videos/daisy_demo.mp4 controls="controls" style="max-width: 730px;">
-</video>
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/daisy_demo.mp4" max-width="720px" controls></video>
 
 # Changes
 
@@ -63,7 +62,6 @@ The princess of sarasaland and the queen of the court is much more different tha
 | **All Throws** | | Daisy no longer needs the help of a random blue Toad to throw foes away |
 
 ## Neutral Special: Return to Sender
-<video src=/assets/img/videos/daisy_specialn.mp4 controls="controls" style="max-width: 730px;">
-</video>
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/daisy_specialn.mp4" max-width="720px" controls></video>
 
 Daisy's counter now sends a projectile right back at the opponent. This flower ball has 12% base damage, and will stick the opponent with a flower!
