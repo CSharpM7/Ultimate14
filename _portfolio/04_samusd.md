@@ -36,6 +36,9 @@ One of the echoes that received the most amount of changes, Dark Samus now acts 
 
 ## Neutral Special: Phazon Discharge
 
+<video src=../assets/img/videos/samusd_specialn.mp4 controls="controls" style="max-width: 730px;">
+</video>
+
 Similar to Samus's charge-based gameplan, Dark Samus can charge Phazon while holding neutral special. Getting hit during this charge, or interupting it with the Discharge attack will remove your current charge. Press Neutral Special to create a blast of Phazon. Fully charged, this move will deal more damage, but will also damage Dark Samus
 
 ## Side Special: Hyper Missile
@@ -43,6 +46,9 @@ Similar to Samus's charge-based gameplan, Dark Samus can charge Phazon while hol
 Can only shoot the Hyper Missile, which uses the same recovery frames and animation as shooting a Super Missile does. Hyper Missiles have less homing sensitivity, but move faster. The missile deals two hits: the first deals strong knockback and the following explosion deals minor, flinchless damage over time.
 
 ## Up Special: Hyper Shinespark
+
+<video src=../assets/img/videos/samusd_specialhi.mp4 controls="controls" style="max-width: 730px;">
+</video>
 
 Similar to Ridley's Wing Blitz, this move doesn't have a startup hitbox, but does have a strong, singlehit launcher on movement. Unlike Wing Blitz, Dark Samus can angle this in any direction. Be sure to not hit a wall/ceiling at high speeds, or you will bonk off the side without a jump.
 

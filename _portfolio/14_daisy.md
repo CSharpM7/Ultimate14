@@ -15,7 +15,8 @@ caption:
 
 The princess of sarasaland and the queen of the court is much more different than her diplomatic mushroom kingdom counterpart, and as such a decent amount has been changed about Daisy. Most notably she cannot float, but comes with a uniquely short mini jump that acts similar to float cancelling. To compensate, some of her damage output and launch power has been decreased
 
-<video src=assets/img/videos/daisy_demo.mp4 controls="controls" style="max-width: 730px;">
+
+<video src=../assets/img/videos/daisy_demo.mp4 controls="controls" style="max-width: 730px;">
 </video>
 
 # Changes
@@ -50,9 +51,7 @@ The princess of sarasaland and the queen of the court is much more different tha
 | | | KBG: 90/100/90 BKB: 30/20/30 |
 | | | Landing Lag: 8->10 |
 | | | |
-| **Neutral Special:** | | Now sends a single projectile upon activation |
-| **Return to Sender** | | Flower ball base damage: 12% |
-| | | Flower ball can stick a flower on opponents |
+| **Neutral Special:** | | See below |
 | **Side Special:** | | While weaker than Peach's, it can stick a flower on opponents |
 | | | |
 | **Up Special:** | | Daisy falls faster, and has less horizontal mobility |
@@ -60,3 +59,11 @@ The princess of sarasaland and the queen of the court is much more different tha
 | **Down Special:** | | Normal Turnips are much more likely |
 | | | Stitch face cannot be pulled |
 | | | Beam Sword replaced with Lip's Stick |
+| | | |
+| **All Throws** | | Daisy no longer needs the help of a random blue Toad to throw foes away |
+
+## Neutral Special: Return to Sender
+<video src=../assets/img/videos/daisy_specialn.mp4 controls="controls" style="max-width: 730px;">
+</video>
+
+Daisy's counter now sends a projectile right back at the opponent. This flower ball has 12% base damage, and will stick the opponent with a flower!
