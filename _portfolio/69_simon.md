@@ -27,6 +27,6 @@ Simon sports new long ranged attacks to better fit the Classicvania style of gam
 
 
 ## Down Air
-<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/simon_airlw.mp4" max-width="720px" controls></video>
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/simon_airlw.mp4" max-width="360px" controls></video>
 
 Similar to Up Air, strikes his whip downwards. This move can only spike opponents if it hits a grounded opponent, or if the whip does not touch the stage. This move also can't go through the stage (unlike how Sephiroth's can), but can go through platforms. This move also cannot tether to the ledge. Deals the same damage as up air 

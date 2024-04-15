@@ -32,5 +32,5 @@ All normals, neutral special, and side special deal 0.9x damage
 | | | |
 
 ## Up Special (Soaring Aether)
-<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/chrom_specialhi.mp4" max-width="720px" controls></video>
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/chrom_specialhi.mp4" max-width="360px" controls></video>
 A slightly redesigned Soaring Tempest that allows Chrom to recover more reliably. Pressing Up Special will have Chrom do an armored super jump, where he's free to grab the ledge. If you hold Special during the jump, he will transition into Aether, spinning down towards the stage (or blastzone). The spin deals moderate damage and knockback
