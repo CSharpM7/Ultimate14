@@ -3,7 +3,6 @@ title: Aegis
 subtitle: 
 image: assets/img/chara/chara_7_element_00.png
 alt: Aegis
-changes: "true"
 
 caption:
   title:
