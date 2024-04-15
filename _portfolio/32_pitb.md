@@ -36,7 +36,6 @@ The return of the legendary Brawl recovery. Gifted with Pandora's Power, Dark Pi
 
 ## Down Special (Summon Orbiter)
 
-<video src=../assets/img/videos/pitb_speciallw.mp4 controls="controls" style="max-width: 730px;">
-</video>
+![](../assets/img/videos/pitb_speciallw.mp4)
 
 Similar to Palutena's Reflection Board, except it can only block physical attacks. Each attack will slightly slow it down, and it can only block a few physical attacks before breaking. The cooldown is much longer than Pit's, and will always enter cooldown after being used. Pick when to use this move wisely...or just use it offstage.
