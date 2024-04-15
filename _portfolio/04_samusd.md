@@ -46,7 +46,7 @@ Can only shoot the Hyper Missile, which uses the same recovery frames and animat
 
 ## Up Special: Hyper Shinespark
 
-<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/samusd_specialhi.mp4" max-width="360px" controls></video>
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/samusd_specialhi.mp4" width="480" height="360" controls></video>
 
 Similar to Ridley's Wing Blitz, this move doesn't have a startup hitbox, but does have a strong, singlehit launcher on movement. Unlike Wing Blitz, Dark Samus can angle this in any direction. Be sure to not hit a wall/ceiling at high speeds, or you will bonk off the side without a jump.
 

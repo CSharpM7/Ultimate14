@@ -62,6 +62,6 @@ The princess of sarasaland and the queen of the court is much more different tha
 | **All Throws** | | Daisy no longer needs the help of a random blue Toad to throw foes away |
 
 ## Neutral Special: Return to Sender
-<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/daisy_specialn.mp4" max-width="360px" controls></video>
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/daisy_specialn.mp4" width="640" height="480" controls></video>
 
 Daisy's counter now sends a projectile right back at the opponent. This flower ball has 12% base damage, and will stick the opponent with a flower!
