@@ -36,7 +36,7 @@ One of the echoes that received the most amount of changes, Dark Samus now acts 
 
 ## Neutral Special: Phazon Discharge
 
-<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/samusd_specialn.mp4" max-width="360px" controls></video>
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/samusd_specialn.mp4" width="640" height="360" controls></video>
 
 Similar to Samus's charge-based gameplan, Dark Samus can charge Phazon while holding neutral special. Getting hit during this charge, or interupting it with the Discharge attack will remove your current charge. Press Neutral Special to create a blast of Phazon. Fully charged, this move will deal more damage, but will also damage Dark Samus
 
