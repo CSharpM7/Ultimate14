@@ -18,6 +18,10 @@ Lucas' notable changes come with his new Neutral and Down Specials. Rather than 
 
 # Changes
 
+| |  |  |
+| :----------- | :-----: | ----------- |
+| **Neutral Air** | | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Nairs) |
+
 ## Neutral Special: PK Lifeup
 <video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/lucas_specialn.mp4" width="640" height="360" controls></video>
 
