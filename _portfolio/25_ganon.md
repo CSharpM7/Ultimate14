@@ -36,4 +36,4 @@ It is every mod's right of passage to change Ganondorf's moveset, and there's no
 
 ## Up Special (Float)
 
-It's not a real mod if Ganondorf doesn't have a float! Similar to Dark Pit, Ganondorf can cancel this move with aerials at any point after rising. Cancelling it the frame you rise into the air gives you a Super Jump! His float only lasts for 2 seconds, and you will need to land to start recharging your fuel. Becareful about getting hit during this move while offstage!
+It's not a real mod if Ganondorf doesn't have a float! Similar to Dark Pit, Ganondorf can cancel this move with aerials at any point after rising. Unlike Dark Pit, Ganondorf will not turn around in the air during his float. Cancelling it the frame you rise into the air gives you a Super Jump! His float only lasts for 2 seconds, and you will need to land to start recharging your fuel. Becareful about getting hit during this move while offstage!
