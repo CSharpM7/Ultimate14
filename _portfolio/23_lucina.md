@@ -32,7 +32,6 @@ All non-new normals, neutral special, and up special deal 0.9x damage
 | | | |
 | **Neutral Air** | | Same as Marth, Increased Landing Lag 2 to match Roy |
 |  |  | Decreased Knockback |
-| | | |
 | **Up Air** | | Same as Marth, Increased Landing Lag and Active Frames by 1 |
 | | | |
 | **Down Taunt** | | Lucina's mask will stay on her face until she down taunts again. This includes keeping her mask on the results screen! |
