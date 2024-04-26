@@ -27,4 +27,6 @@ Isabelle's aerials have been altered to help encourage her to move up close to t
 | **Down Air** | | Pops her umbrella. Deals the same knockback as her original down air, but the hitbox is moved higher down. |
 |  |  |  |
 | **Down Special** | | Lloid's detection radius has been increased |
+|  | | Lloid's HP increased to 12, Lloid's max lifetime increased to 20 seconds | 
+|  | | Grounded detonation can now hit opponents as well as Isabelle | 
 |  |  |  |

@@ -18,6 +18,25 @@ One of the echoes that received the most amount of changes, Dark Samus now acts 
 
 # Changes
 
+## Stats
+
+| |  |  |
+| :----------- | :-----: | ----------- |
+| **Run Speed** | | Increased to 1.705 (similar to Luigi)  |
+|  | |  |
+| **Air Acceleration (X)** | | Increased to 1.1 (similar to Megaman)  |
+| **Max Air Speed (X)** | | Increased to 1.2 (similar to DK)  |
+|  | |  |
+| **Jump Height (Grounded)** | |Increased to 34 (Similar to DK)  |
+| **Jump Height (Aerial)** | |Increased to 34 (Similar to Pac-Man)  |
+| **Gravity** | |Increased to .105 (Similar to King K.Rool)  |
+| **Fall Speed** | |Increased to 1.55 (Similar to Palutena)  |
+| **Dive Speed** | |Increased to 2.72 (Similar to Zero Suit Samus)  |
+|  | |  |
+| **Weight** | | Decreased to 93 (similar to Joker)  |
+
+## Moveset
+
 | |  |  |
 | :----------- | :-----: | ----------- |
 | **Jab 1** | | Deals additional hitstun |

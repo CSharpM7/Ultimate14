@@ -17,6 +17,14 @@ It is every mod's right of passage to change Ganondorf's moveset, and there's no
 
 # Changes
 
+## Stats
+
+| |  |  |
+| :----------- | :-----: | ----------- |
+| **Jump Height (Ground)** | | Increased to 30 (similar to Simon)  |
+| **Jump Height (Aerial)** | | Increased to 28 (similar to Roy)  |
+
+## Moveset
 
 | |  |  |
 | :----------- | :-----: | ----------- |
