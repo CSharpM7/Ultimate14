@@ -28,12 +28,18 @@ Link receives a redesigned moveset to match his redesigned look, giving him "DLC
 
 ## Up Special (Revali's Gale)
 
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/link_specialhi.mp4" width="640" height="360" controls></video>
+
 This up special will have Link rise into the air, then slowly decend down, similar to Game and Watch and Peach. On the ground, you can hold the special button to charge up, increasing your launch distance. In the air, you can cancel the move with an air dodge, special, or aerial.
 
 ## Shield Attack (Shield + Special)
 
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/link_shieldattack.mp4" width="640" height="360" controls></video>
+
 Pressing the special button during shield lets Link do a quick shield attack, in reference to how his Shield Attack functions in his games. His arm is invincible during the active frames of the move. This gives Link a quick Out of Shield option that isn't as potent as his old Up Special
 
 ## Wall Climbing
+
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/link_wall.mp4" width="640" height="360" controls></video>
 
 Like in Breath of the Wild, Link can cling onto walls for a short period of time. Unlike Greninja, Bayonetta, and the other Wall Clingers, Link can move up and down during this state. Moving will deplete your stamina faster, and if you run out of stamina, you enter tumble fall. Make sure you make it back on stage to restore your stamina!

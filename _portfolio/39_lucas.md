@@ -20,7 +20,12 @@ Lucas' notable changes come with his new Neutral and Down Specials. Rather than 
 
 | |  |  |
 | :----------- | :-----: | ----------- |
+| **Up Tilt** | | Linking hitboxes now properly link into the launcher |
+|  |  |  |
 | **Neutral Air** | | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Nairs) |
+| **Forward Air** | | Damage increased to 13.5%/10.0% |
+| **Back Air** | | Damage increased to 15.0%/12.0%/9.0% |
+|  |  |  |
 
 ## Neutral Special: PK Lifeup
 <video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/lucas_specialn.mp4" width="640" height="360" controls></video>
