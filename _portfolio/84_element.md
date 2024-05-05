@@ -51,8 +51,10 @@ Pyra can cancel Neutral Special, and Mythra can cancel Neutral and Side Specials
 |  |  | Recovery frames increased by 10 |
 |  |  | Final hit active frames reduced by 4|
 | **Side Special** | | While Side Special is out, Pyra can now throw items, jab, rapid jab, and grab |
+|  |  | Sword multihit animation sped up, reducing active frames by 10 |
 |  |  | Sword final hit damage decreased to 8% |
-| **Up Special** | | Pillar Knockback decreased |
+| **Up Special** | | Startup increased to Frame 18 |
+|  |  | Pillar Knockback decreased |
 |  |  | Spike no longer uses fixed knockback but has 1% less damage |
 |  |  | Fire Pillar deals 2% less damage and reduced knockback |
 |  |  | Vertical distance reduced |
