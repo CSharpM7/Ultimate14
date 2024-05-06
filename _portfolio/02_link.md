@@ -30,9 +30,12 @@ Link receives a redesigned moveset to match his redesigned look, giving him "DLC
 | **Down Air** | | No longer pogos, but has a landing hitbox similar to Sheik and Min Min Dair |
 |  |  |  |
 
-## Side Special (Shield Charge)
+## Side Special (Shield Charge / Shield Surf)
+
+<video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/link_specials.mp4" width="640" height="360" controls></video>
 
 On the ground, Link's side special has him charging towards opponents, protected by his shield. With 8% armor, and faster running speed, opponents should watch out! The move can be cancelled in three different ways: tilting back (or hitting ledge, or pressing shield) to brake, jumping to jump cancel, and pressing attack/special to perform a thrust. The attack from the shield charge is relatively weak, but the sword thrust is surprisingly powerful.
+In the air, Link will ride on his shield! If he hits an opponent or projectile with the shield, he'll bounce of them, which can lead into his aerial combos.
 
 ## Up Special (Revali's Gale)
 
