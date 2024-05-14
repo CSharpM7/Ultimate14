@@ -13,7 +13,7 @@ caption:
 
 # Overview 
 
-It is every mod's right of passage to change Ganondorf's moveset, and there's no shortage of changes here. Ultimate 14 Ganondorf is a hybrid sword-fighter and brawler, similar to Ridley. His new normals increase his range, while his new specials help improve his recovery. Agility is still his main flaw, but now his jump height is increased to help improve his combo game. For 3 games in a row, Ganondorf has been one of the worst in the game but now, at least he's a commendable low-mid tier. 
+It is every mod's rite of passage to change Ganondorf's moveset, and there's no shortage of changes here. Ultimate 14 Ganondorf is a hybrid sword-fighter and brawler, similar to Ridley. His new normals increase his range, while his new specials help improve his recovery. Agility is still his main flaw, but now his jump height is increased to help improve his combo game. For 3 games in a row, Ganondorf has been one of the worst in the game but now, at least he's a commendable low-mid tier. 
 
 # Changes
 
