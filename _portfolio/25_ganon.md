@@ -39,7 +39,7 @@ It is every mod's right of passage to change Ganondorf's moveset, and there's no
 | **Forward Throw** | | Now uses his old Forward Smash animation while keeping the same frame data and damage as his original Forwad Throw |
 | | | |
 | **Side Special (Air)** | | Upon grabbing an enemy, Ganondorf will transition into his old Up Special grab. No longer will Ganondorf and his opponent plunge towards the blastzone, though this does remove tech chasing from the Aerial version |
-| | No longer goes into freefall from a failed Side Special, however Side Special can only be used once per airtime | |
+| | | No longer goes into freefall from a failed Side Special, however Side Special can only be used once per airtime |
 | | | |
 
 ## Up Special (Float)
