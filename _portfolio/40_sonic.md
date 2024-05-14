@@ -54,6 +54,7 @@ How does one balance the fastest thing alive while trying to keep his moveset in
 |  |  | Reduced height gained |
 | **Down Special (Ground)** | | Uses the original Side Special's properties instead, meaning this will loose to shields and will launch foes upward on hit |
 | **Down Special (Air)** | | Replaced with the Drop Dash. Hold the special button to continue charging, and once you land, you'll instantly perform a Spin Dash! This move can be B-Reversed in the air, so get tricky with your movement. |
+| | | |
 
 ## Neutral Special (Blue Tornado)
 
