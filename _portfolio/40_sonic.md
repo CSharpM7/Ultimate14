@@ -14,7 +14,7 @@ caption:
 
 # Overview 
 
-Sonic receives a redesigned moveset to match his redesigned look, giving him "DLC treatment". His reversals might not be as potent, but he still is a strong, defensive character. His recovery no longer relies solely on Bomb Jumping as he has a few new tricks to make it back to the stage, including a unique Wall Climb.
+How does one balance the fastest thing alive while trying to keep his moveset interesting? The aim of this overhaul is to tone down his damage (his tilts are already a good example of this), remove some of his long-lasting hitboxes and disjoints, and reduce how mobile he while airborne. In exchange, Sonic gets more moves that can lead into combos and a stylish move that can be used both on and off stage for combos.
 
 # Changes
 
@@ -31,9 +31,7 @@ Sonic receives a redesigned moveset to match his redesigned look, giving him "DL
 | |  |  |
 | :----------- | :-----: | ----------- |
 | **Forward Tilt** | | Now a single hit kick that starts on frame 8. Deals 8.5/6.0% |
-| **Forward Smash** | | Damaged reduced to 13.0% |
-|  |  |  |
-| **Dash Attack** | | Thrusts his shield forward for a Shield Bash. Similar to Palutena, his arm becomes invincible during the initial hitbox. |
+| **Down Tilt** | | Angle increased to convert this move into a combo starter |
 |  |  |  |
 | **Forward Smash** | | Damaged reduced to 13.0% |
 |  |  | Active frames reduced by 1  |
@@ -42,7 +40,7 @@ Sonic receives a redesigned moveset to match his redesigned look, giving him "DL
 | **Down Smash** | | Sonic Flare, a breakdancing move that has a strong hitbox in front for a few frames, and a weaker one behind some frames later. |
 |  |  | Deals 12.0% and 8.0%, does not hit below the ledge  |
 |  |  |  |
-| **Neutral Air** | | Animation cleaned up to have Sonic spin in place |
+| **Neutral Air** | | Animation cleaned up to have Sonic spin in place, while reducing some active frames. Functions more similarly to DeDeDe Nair than Wario Nair now |
 |  |  | Removed final weak hitbox |
 |  |  | Damage reduced to 8.0/6.0% |
 |  |  | Angle decreased to 65 |
@@ -53,6 +51,7 @@ Sonic receives a redesigned moveset to match his redesigned look, giving him "DL
 | **Up Air** | | Damage reduced to 2.0/6.0%. Knockback increased |
 |  |  |  |
 | **Up Special** | | Comes out frame 10 instead of 4 |
+|  |  | Reduced height gained |
 | **Down Special (Ground)** | | Uses the original Side Special's properties instead, meaning this will loose to shields and will launch foes upward on hit |
 | **Down Special (Air)** | | Replaced with the Drop Dash. Hold the special button to continue charging, and once you land, you'll instantly perform a Spin Dash! This move can be B-Reversed in the air, so get tricky with your movement. |
 
