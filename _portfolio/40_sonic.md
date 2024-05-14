@@ -28,6 +28,7 @@ How does one balance the fastest thing alive while trying to keep his moveset in
 
 
 ## Moveset
+
 | |  |  |
 | :----------- | :-----: | ----------- |
 | **Forward Tilt** | | Now a single hit kick that starts on frame 8. Deals 8.5/6.0% |
