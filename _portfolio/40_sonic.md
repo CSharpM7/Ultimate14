@@ -14,7 +14,7 @@ caption:
 
 # Overview 
 
-How does one balance the fastest thing alive while trying to keep his moveset interesting? The aim of this overhaul is to tone down his damage (his tilts are already a good example of this), remove some of his long-lasting hitboxes and disjoints, and reduce how mobile he while airborne. In exchange, Sonic gets more moves that can lead into combos and a stylish move that can be used both on and off stage for combos.
+How does one balance the fastest thing alive while trying to keep his moveset interesting? The aim of this overhaul is to tone down his damage (his tilts are already a good example of this), remove some of his long-lasting hitboxes and disjoints, and reduce how mobile he while airborne. In exchange, Sonic gets more moves that can lead into combos and a stylish move that can be used both on and off stage for combos. He's still very much a top 10 character, but he might not be powerful enough to be considered the same tier as a character that can make stage collision wherever he wants...
 
 # Changes
 
