@@ -31,13 +31,18 @@ Toon Link has already been made different than the other Links, though not by mu
 | |  |  |
 | :----------- | :-----: | ----------- |
 | **Forward Tilt** | | Active frames reduced by 2 |
+| **Down Tilt** | | Animation adjusted to a low poke, better reflecting its knockback properties |
+|  |  | Knockback slightly reduced |
 |  |  |  |
 | **Forward Air** | | Startup increased to frame 17 |
 |  |  |  |
 | **Neutral Special** | | Reaching full charges transforms the arrow into a light arrow. Light Arrows travel 2.5x faster, aren't affected by gravity, and deal increased knockback! |
-| **Up Special** | | Increased SDI multiplier |
-|  |  | Reduced final hit KBG |
+| **Up Special (Grounded)** | | A single hit that starts on frame  |
+|  |  | Damage increased to N%, with knockback increased as well |
+|  |  |  |
+| **Up Special (Grounded, Max Charge)** | | Increased SDI multiplier |
 |  |  | Increased start up to 7 to match vanilla BotW Link |
+|  |  | Toon Link can move during the multihit phase |
 |  |  |  |
 
 ## Side Special (Homing Boomerang)
