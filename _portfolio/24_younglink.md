@@ -31,5 +31,6 @@ BotW Link got a massive overhaul with this patch, so Young Link has been toned d
 | :----------- | :-----: | ----------- |
 | **Neutral Air** | | Startup increased to frame 6 |
 | **Forward Air** | | Recovery frames increased by 9 |
-| **Up Air** | | Startup increased to frame 9|
+| | | Increased landing lag to 9 |
+| **Up Air** | | Startup increased to frame 9 |
 |  |  |  |
