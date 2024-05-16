@@ -20,11 +20,17 @@ How does one balance the fastest thing alive while trying to keep his moveset in
 
 ## Stats
 
+Most of his stats have been reworked to be similar to other fast characters like Captain Falcon and Roy, which means his new "fast faller" nature will increase the rewards players get when they finally catch up to Sonic and land a hit.
+
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Dash Speed** | | Decreased to 2.0 (similar to Mii Swordfighter)  |
-| **Air Accel Mul (X)** | | Decreased to 0.02  |
-| **Air Speed (X)** | | Decreased to 1.15 (similar to Mii Swordfighter)  |
+| **Dash Speed** | | Decreased to 2.0 (similar to Wolf)  |
+| **Air Accel Mul (X)** | | Decreased to 0.03 (similar to Roy)  |
+| **Air Speed (X)** | | Decreased to 1.15 (similar to Mii Brawler)  |
+| **Air Accel (Y)** | | Increased to 0.12 (similar to Captain Falcon) |
+| **Fall Speed** | | Increased to 1.8 (similar to Roy)  |
+| **Dive Speed** | | Decreased to 2.64 (similar to Mii Swordfighter)  |
+| **Weight** | | Decreased to 80 (similar to Zero Suit Samus) |
 
 
 ## Moveset
@@ -50,6 +56,7 @@ How does one balance the fastest thing alive while trying to keep his moveset in
 | **Back Air** | | Damage reduced to 10.0/6.5%. Knockback increased |
 | | | Hitbox sizes reduced by 1 unit |
 | **Up Air** | | Damage reduced to 2.0/6.0%. Knockback increased |
+|  |  | Added a priority hitbox in the center of the move to help connect hits 1 and 2 better |
 |  |  |  |
 | **Up Special** | | Comes out frame 10 instead of 4 |
 |  |  | Reduced height gained |
