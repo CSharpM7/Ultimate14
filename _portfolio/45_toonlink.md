@@ -34,9 +34,14 @@ Toon Link has already been made different than the other Links, though not by mu
 | **Down Tilt** | | Animation adjusted to a low poke, better reflecting its knockback properties |
 |  |  | Knockback slightly reduced |
 |  |  |  |
-| **Forward Air** | | Startup increased to frame 17 |
-| **Up Air** | | Uses a new animation that has him swing his sword upwards like most other sword characters. Has less active frames and only 9 frames of landing lag, but everything else is the same |
+| **Forward Smash** | | Animation adjusted to no longer hit low opponents |
 |  |  |  |
+| **Forward Air** | | Startup increased to frame 17 |
+| **Up Air** | | Uses a new animation that has him swing his sword upwards like most other sword characters. Has less active frames, but damage and knockback are the same |
+|  |  | Startup increased to frame 15 |
+|  |  | Landing Lag decreased to 9 |
+|  |  |  |
+
 | **Neutral Special** | | Reaching full charges transforms the arrow into a light arrow. Light Arrows travel 2.5x faster, aren't affected by gravity, and deal increased knockback! |
 | **Up Special (Grounded)** | | A single hit that starts on frame  |
 |  |  | Damage increased to 12% (+charge multiplier), with knockback increased as well |
