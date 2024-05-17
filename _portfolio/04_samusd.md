@@ -71,4 +71,4 @@ Similar to Ridley's Wing Blitz, this move doesn't have a startup hitbox, but doe
 
 ## Down Special: Hyper Bomb
 
-Dark Samus can lay a single bomb that deals more damage and pops opponents upwards
+Dark Samus can lay a single bomb that is unaffected by gravity. It deals more damage and pops opponents upwards
