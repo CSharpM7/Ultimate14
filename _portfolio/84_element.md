@@ -14,7 +14,7 @@ caption:
 Both Aegis sisters have been toned down slightly to make them less linear. This involves a set of buffs to their recovery and improvisation, while taking away from Mythra's speed and Pyra's power. The standout features include being able to use Art Cancelling to chain Special Moves into each other for extra damage, cancelling attacks earlier to switch blades, and Pyra being able to use more attacks while her sword is out during Blazing Edge.
 
 # Art Cancelling
-Pyra can cancel Neutral Special, and Mythra can cancel Neutral and Side Specials into another special attack (before the final hit). Doing so well make the next special deal 80% less damage. Both sisters can cancel the last 15 frames of a tilt, smash, aerial, or throw into Switch.
+Pyra can cancel Neutral Special, and Mythra can cancel Neutral and Side Specials into another special attack (before the final hit) if you successfully hit an opponent. Doing so well make the next special deal 0.8x less damage. Both sisters can cancel the last 10 frames of a tilt, smash, aerial, or throw into Switch.
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Pyra</h2>

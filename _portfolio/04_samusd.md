@@ -50,7 +50,7 @@ One of the echoes that received the most amount of changes, Dark Samus now acts 
 |  |  |  |
 | **Nair Air** | | A new, singlehit screw attack |
 | **Forward Air** | | A powerful Phazon punch that has increased startup, but increased knockback. This move is a single hit. |
-| **Up Air** | | A single hit version of Samus' kick that has less landing lag |
+| **Up Air** | | A two hit kick, similar to Fox's. It deals less damage and knockback than Fox, but it covers a wider range in front of Dark Samus. Exceptional for juggling! |
 
 
 ## Neutral Special: Phazon Discharge

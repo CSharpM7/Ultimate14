@@ -22,6 +22,7 @@ Link receives a redesigned moveset to match his redesigned look, giving him "DLC
 | **Dash Attack** | | Thrusts his shield forward for a Shield Bash. Similar to Palutena, his arm becomes invincible during the initial hitbox. |
 |  |  |  |
 | **Down Smash** | | The fabled Hero's Spin, though it has less rotations than its original Up Special counterpart. It also contains a sourspot on Link's feet to still hit small opponents. |
+|  |  | Can now clank with attacks |
 |  |  |  |
 | **Neutral Air** | | Active frames decreased by 10 |
 | **Forward Air** | | Startup decreased to frame 14, damage decreased to 6%/8% |

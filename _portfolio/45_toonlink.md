@@ -35,10 +35,12 @@ Toon Link has already been made different than the other Links, though not by mu
 |  |  | Knockback slightly reduced |
 |  |  |  |
 | **Forward Air** | | Startup increased to frame 17 |
+| **Up Air** | | Uses a new animation that has him swing his sword upwards like most other sword characters. Has less active frames and only 9 frames of landing lag, but everything else is the same |
 |  |  |  |
 | **Neutral Special** | | Reaching full charges transforms the arrow into a light arrow. Light Arrows travel 2.5x faster, aren't affected by gravity, and deal increased knockback! |
 | **Up Special (Grounded)** | | A single hit that starts on frame  |
-|  |  | Damage increased to N%, with knockback increased as well |
+|  |  | Damage increased to 12% (+charge multiplier), with knockback increased as well |
+|  |  | Can now clank with attacks |
 |  |  |  |
 | **Up Special (Grounded, Max Charge)** | | Increased SDI multiplier |
 |  |  | Increased start up to 7 to match vanilla BotW Link |
