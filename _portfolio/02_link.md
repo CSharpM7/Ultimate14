@@ -13,7 +13,7 @@ caption:
 
 # Overview 
 
-Link receives a redesigned moveset to match his redesigned look, giving him "DLC treatment". His reversals might not be as potent, but he still is a strong, defensive character. His recovery no longer relies solely on Bomb Jumping as he has a few new tricks to make it back to the stage, including a unique Wall Climb.
+Link receives a redesigned moveset to match his redesigned look, giving him "DLC treatment". His reversals might not be as potent, but he still is a strong, defensive character. His recovery no longer relies solely on Bomb Jumping as he has a few new tricks to make it back to the stage, including a unique Wall Climb. To make him stand out further from the other Links, this Link specializes in anti-zoning tools. Both aerial and grounded side special can beat out projectiles (with proper spacing), as well as his Dash Attack and unique Shield Attack. While this Link is a little more slugish than the other Links, he has the tools to outlast the competition.
 
 # Changes
 

@@ -83,7 +83,7 @@ Pyra can cancel Neutral Special, and Mythra can cancel Neutral and Side Specials
 | |  |  |
 | **Forward Smash** | | Recovery frames increased by 2 |
 | |  |  |
-| **Neutral Air** |  | Landing Hitbox only spawns if landed during multihit [(Dragdown Nair Rework)](mechanics#Nairs) |
+| **Neutral Air** |  | Landing Hitbox only spawns if landed during multihit [(Dragdown Nair Rework)](mechanics#Landing_Hits) |
 | | | Recovery frames increased by 3 |
 | **Up Air** | | Recovery frames increased by 5 |
 | |  |  |

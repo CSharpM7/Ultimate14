@@ -22,7 +22,7 @@ Similar to Banjo, this DLC character doesn't QUITE have the "DLC" feeling. Most 
 |  |  |  |
 | **Neutral Air** | | Always sends forward |
 |  |  | Hitbox duration increased to frame 26 (launcher on 28) |
-|  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Nairs) |
+|  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Landing_Hits) |
 | **Forward Air** | | Landing Lag decreased (13->9) |
 | **Back Air** | | Hitbox raised slightly to better match visuals |
 | **Up air** | | Startup decreased to Frame 5 |

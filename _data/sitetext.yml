@@ -38,9 +38,9 @@ en: &DEFAULT_EN
       #- title: "Balance Guidelines"
       #  url: "balancedesign"
       #  logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
-      #- title: "Mechanic Changes"
-      #  url: "mechanics"
-      #  logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+      - title: "Mechanic Changes"
+        url: "mechanics"
+        logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
       #- title: "Stages"
       #  url: "stages"
       #  logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png

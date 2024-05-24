@@ -27,7 +27,7 @@ caption:
 |  |  |  |
 | **Neutral Air** | | Always sends forward |
 |  |  | Landing Lag decreased (16->13) |
-|  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Nairs) |
+|  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Landing_Hits) |
 | **Forward Air** | | Landing Lag increased (11->13) |
 | **Back Air** | | Landing Lag Decreased (18->14) |
 |  |  | Damage increased |

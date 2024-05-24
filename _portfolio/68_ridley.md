@@ -18,8 +18,6 @@ Ridley sits in a very unique spot in the 13 meta: he goes toe-to-toe with many t
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Stats** | | Weight Increased |
-|  |  | [(Air Speed Increased)](mechanics#nairs) |
 | **Forward Tilt** | | Hitbox placements slightly adjusted |
 | **Up Tilt** | | Knockback gain decreased |
 | **Down Tilt** | | Knockback adjusted to work better as a late-percent combo tool |
