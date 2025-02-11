@@ -28,6 +28,7 @@ Richter remains mostly unchanged so that he can be compatible with Alucard, but 
 | |  |  |
 | :----------- | :-----: | ----------- |
 | **Down Tilt** | | Increased damage to 7.0% and increase knockback, acting more like other sliding Down Tilts |
+| | | Recovery Frames reduced by 5 |
 |  |  |  |
 | **Dash Attack** | | Now instantly does Down Tilt 2 |
 |  |  |  |

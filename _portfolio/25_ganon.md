@@ -30,7 +30,7 @@ It is every mod's rite of passage to change Ganondorf's moveset, and there's no 
 | :----------- | :-----: | ----------- |
 | **Jab** | | His old F-Tilt, now sporting similar frame data and damage to his original jab. |
 | | | |
-| **Ftilt Tilt** | | A simple sword swing that moves Ganondorf forward and comes out frame 14. This move cannot be angled, but covers a decent range below and in front of Ganondorf. |
+| **Forward Tilt** | | A simple sword swing that moves Ganondorf forward and comes out frame 14. This move cannot be angled, but covers a decent range below and in front of Ganondorf. |
 | | | |
 | **Up Tilt** | | An upwards up with the hilt of his sword. Decent for comboing into aerials, and has very low recovery frames |
 | | | |
@@ -40,6 +40,7 @@ It is every mod's rite of passage to change Ganondorf's moveset, and there's no 
 | | | |
 | **Side Special (Air)** | | Upon grabbing an enemy, Ganondorf will transition into his old Up Special grab. No longer will Ganondorf and his opponent plunge towards the blastzone, though this does remove tech chasing from the Aerial version |
 | | | No longer goes into freefall from a failed Side Special, however Side Special can only be used once per airtime |
+| | | Angle increased to 50, KBG reduced to 88 |
 | | | |
 
 ## Up Special (Float)
