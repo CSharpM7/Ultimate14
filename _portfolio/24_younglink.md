@@ -3,7 +3,7 @@ title: Young Link
 subtitle: 
 image: assets/img/chara/chara_7_younglink_00.png
 alt: Young Link
-changes: "true"
+changes: "false"
 
 caption:
   title:
@@ -21,8 +21,8 @@ BotW Link got a massive overhaul with this patch, so Young Link has been toned d
 
 | |  |  |
 | :----------- | :-----: | ----------- |
-| **Dash Speed** | | Decreased to 2.0 (similar to Wolf)  |
-| **Run Speed** | | Decreased to 1.6 (similar to Roy)  |
+| **Dash Speed** | | Decreased to 2.0 (similar to ROB)  |
+| **Run Speed** | | Decreased to 1.6 (similar to Ryu)  |
 | **Jump Height** | | Decreased to 30 (similar to Simon)  |
 
 ## Moveset

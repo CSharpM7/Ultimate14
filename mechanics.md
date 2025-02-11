@@ -24,5 +24,4 @@ background: grey
 
 <video src="assets/img/videos/nair.mp4" max-width="1280px" controls></video>
 
-Drag-down aerials have a new mechanic regarding landing hitboxes: the landing hitbox can only activate during the frames of the multihit hitboxes. This means landing before the first frame of the move, or after (or on) the launching hitbox will not spawn the landing hitbox. The majority of characters that use a multihit nair that is similar to Palutena or Zelda now have a landing hitbox.
-
+Drag-down aerials have a new mechanic regarding landing hitboxes: the landing hitbox can only activate during the frames of the multihit hitboxes. This means landing before the first frame of the move, or after (or on) the launching hitbox will not spawn the landing hitbox.

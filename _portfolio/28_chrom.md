@@ -3,7 +3,7 @@ title: Chrom
 subtitle: 
 image: assets/img/chara/chara_7_chrom_00.png
 alt: Chrom
-changes: "false"
+changes: "true"
 
 caption:
   title:

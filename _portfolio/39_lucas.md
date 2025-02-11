@@ -22,7 +22,7 @@ Lucas' notable changes come with his new Neutral and Down Specials. Rather than 
 | :----------- | :-----: | ----------- |
 | **Up Tilt** | | Linking hitboxes now properly link into the launcher |
 |  |  |  |
-| **Neutral Air** | | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Landing_Hits) |
+| **Neutral Air** | | Has a landing hitbox |
 | **Forward Air** | | Damage increased to 13.5%/10.0% |
 | **Back Air** | | Damage increased to 15.0%/12.0%/9.0% |
 |  |  |  |
@@ -30,7 +30,7 @@ Lucas' notable changes come with his new Neutral and Down Specials. Rather than 
 ## Neutral Special: PK Lifeup
 <video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/lucas_specialn.mp4" width="640" height="360" controls></video>
 
-This move is dedicated towards either healing yourself, or your teammates in Team Battles! Aim the psi bullet for yourself or your party, and watch as your life restores! Enemies won't receive a heal, however they can interrupt your move. This move takes 30 seconds to recharge to full strength, but the move can still be used without being at full power. If you get interuptted before casting the attack, instead of being put at 100% cooldown, you will be put 50% closer to the full cooldown. This way, if you are interrupted while completely fresh, you'll have a 15 second cooldown, but if you are interrupted while 50% fresh, you'll have a ~23 second cooldown.
+This move is dedicated towards either healing yourself, or your teammates in Team Battles! Enemies won't receive a heal, however they can interrupt your move. This move takes 30 seconds to recharge to full strength, but the move can still be used without being at full power. If you get interuptted before casting the attack, instead of being put at 100% cooldown, you will be put 50% closer to the full cooldown. This way, if you are interrupted while completely fresh, you'll have a 15 second cooldown, but if you are interrupted while 50% fresh, you'll have a ~23 second cooldown.
 
 ## Side Special: PK Fast-Flash
 
