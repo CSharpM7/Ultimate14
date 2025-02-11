@@ -22,7 +22,7 @@ Lucas' notable changes come with his new Neutral and Down Specials. Rather than 
 | :----------- | :-----: | ----------- |
 | **Up Tilt** | | Linking hitboxes now properly link into the launcher |
 |  |  |  |
-| **Neutral Air** | | Has a landing hitbox |
+| **Neutral Air** | | Now has a landing hitbox |
 | **Forward Air** | | Damage increased to 13.5%/10.0% |
 | **Back Air** | | Damage increased to 15.0%/12.0%/9.0% |
 |  |  |  |

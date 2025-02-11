@@ -34,7 +34,7 @@ en: &DEFAULT_EN
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
-    #list:
+    list:
       #- title: "Balance Guidelines"
       #  url: "balancedesign"
       #  logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png

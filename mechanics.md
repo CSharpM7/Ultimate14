@@ -10,8 +10,8 @@ background: grey
 
 # General Mechanics
 
-- Ground to air momentum is now preserved whenever you enter jump squat or run off the ledge/platform
-- Untechable threshold increased (might be able to make it so they don't happen below 100%, but probably can't)
+- Ground to air momentum is somewhat preserved whenever you enter jump squat or run off the ledge/platform
+- Untechable threshold increased
 - Platforms can now be passed through during dash and run states
 - Parries can be cancelled with a dash on their first actionable frame
 - Parries force the attacking player into a rebound animation, its length depends on the strength of the move

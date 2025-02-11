@@ -22,6 +22,6 @@ caption:
 | **Up Tilt** | | first hitbox has been lowered |
 |  |  |  |
 | **Neutral Air** | | Start up increased (4->6) |
-|  |  | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Landing_Hits) |
+|  |  | Has a landing hitbox |
 | **Down Air** | | Sweetspot size has been increased |
 |  | | Sourspot starts one frame earlier |

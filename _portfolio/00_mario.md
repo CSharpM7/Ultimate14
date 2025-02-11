@@ -21,7 +21,7 @@ While Link receieved a new design to match his latest game, Mario was somehow le
 | :----------- | :-----: | ----------- |
 | **Up Smash** | | Increased active frames by 1 to match Luigi and Dr Mario |
 |  |  |  |
-| **Down Air** | | Final hit Knockback Growth decreased |
+| **Down Air** | | Final hit Knockback Growth decreased, Angle lowered to 70 |
 |  |  |  |
 | **Down Special** | | Fludd water speed and lifetime decreased |
 |  |  |  |
