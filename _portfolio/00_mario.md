@@ -35,6 +35,6 @@ Side Special is now a multifaceted tool for recovery, offense, defense, and styl
 
 Press Side Special while wearing Cappy to toss him forward! This comes with a small reflector hitbox that can send projectiles back, similar to how it works in Odyssey. Cappy can be angled up or down, and he'll bounce on the ground if he hits it. When Cappy reaches his peak distance, hold the special button to keep him there for a few more seconds, or release the special button to have him come right back to you. Cappy has a hitbox going out, staying in place, as well as on the return. If Cappy hits someone while being held by the special button, Cappy will automatically come right back towards Mario. Keep in mind that Cappy can be hit during Cap Toss, and if he is, he'll flop down, preventing him from being used for a few seconds.
 
-### Cap Dive and Cap Jump
+### Cap Dive
 
-While Cappy is out, press Side Special again to dive. The dive has a pretty weak hitbox, but its main use is for movement. If you dive onto Cappy, you'll immediately perform a Cap Jump. You can act very quickly out of a Cap Jump in case you want to combo off of it, however Cap Jump will take away one of your normal jumps! Don't use Cap Jump while far below the stage, or you might not make it back.
+While Cappy is out, press Side Special again to dive. The dive has a pretty weak hitbox, but its main use is for movement.
