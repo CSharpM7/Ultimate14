@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pictochat
+title: Mechanics
 background: grey
 ---
 
