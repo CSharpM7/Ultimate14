@@ -24,6 +24,11 @@ Simon sports new long ranged attacks to better fit the Classicvania style of gam
 |  |  |  |
 | **Dash Attack** | | A charging tackle attack. The strong hit deals 12% while the weak hit deals 9.0% |
 |  |  |  |
+| **Neutral Air** | | Has a landing hitbox [(Dragdown Nair Rework)](mechanics#Landing_Hits) |
+| **Forward Air** | | Frame Data now matches Back Air's |
+|  |  |  |
+| **Down Special** | | Can be B-reversed |
+|  |  |  |
 
 
 ## Down Air

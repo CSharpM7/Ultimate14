@@ -8,7 +8,7 @@ background: grey
 	<h2 class="section-heading text-uppercase">Mechanic Changes</h2>
 </div>
 
-# General Mechanics
+## General Mechanics
 
 - Ground to air momentum is somewhat preserved whenever you enter jump squat or run off the ledge/platform
 - Untechable threshold increased
@@ -20,8 +20,16 @@ background: grey
 - Burries and Grabs can now be mashed out by holding either jump or attack. Mashing is still the optimal method, but now it's less binary than "Either mash or don't". Save your controllers!
 
 
-# Landing Hits
+## Landing Hits
 
 <video src="assets/img/videos/nair.mp4" max-width="1280px" controls></video>
 
-Drag-down aerials have a new mechanic regarding landing hitboxes: the landing hitbox can only activate during the frames of the multihit hitboxes. This means landing before the first frame of the move, or after (or on) the launching hitbox will not spawn the landing hitbox.
+All aerials have a new mechanic regarding landing hitboxes: the landing hitbox can only activate during the frames of the multihit hitboxes. This means if a player lands before the first frame of the move, or after the launching hitbox spawns, the landing hitbox will not spawn.
+
+
+
+
+
+
+
+
