@@ -6,10 +6,10 @@
         </div>
     </div>
 
-    <div class="row text-center">
+    <div class="row">
         {% for credit in site.data.sitetext[site.locale].credits.list %}
-        <div class="col-md-4">
-            <h3 class="section-heading text-uppercase">{{ credit.name }}</h3>
+        <div class="col-md-4 text-center">
+            <h4 class="section-heading text-uppercase">{{ credit.name }}</h4>
         </div>
         {% endfor %}
     </div>
