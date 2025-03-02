@@ -15,8 +15,8 @@ en: &DEFAULT_EN
       section: about
     - title: "Patch Notes"
       section: changes
-    - title: "FAQ"
-      section: faq
+    - title: "Credits"
+      section: credits
     - title: "Download"
       section: download
 en-US:
@@ -31,12 +31,6 @@ en-AU:
 # Spanish
 # -------
 es: &DEFAULT_ES
-  nav:
-#    - title: "Portafolio"
-#      section: portafolio
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES

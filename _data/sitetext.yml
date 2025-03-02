@@ -66,14 +66,20 @@ en: &DEFAULT_EN
     linkname: "N/A"
     section: download
     list:
+      - url: https://github.com/skyline-dev/skyline/releases/latest
+        linkname: Skyline
       - url: https://github.com/HDR-Development/smashline/releases/latest
         linkname: Smashline 2
-
+      - url: https://github.com/HDR-Development/smashline/releases/latest
+        linkname: NRO Hook
+      - url: https://github.com/HDR-Development/smashline/releases/latest
+        linkname: Param Config
   credits:
     title: "Credits"
     section: credits
     list:
-      - name: Wuboy
+      - name: Wuboy (Custom Variable Module)
+      - name: Sushiiz (Mario Captoss Animation)
 
   footer:
     legal: " "
