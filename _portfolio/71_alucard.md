@@ -13,4 +13,4 @@ caption:
 
 # Overview
 
-Alucard is fully compatible with Ultimate 14! While he won't be bundled with Ultimate 14, players are encouraged to enable his normal moveset mod (along with Richter Returns) while playing Ultimate 14!
+Due to current Smashline 2 limitations, Alucard is not compatible with Ultimate 14

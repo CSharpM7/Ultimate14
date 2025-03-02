@@ -70,9 +70,9 @@ en: &DEFAULT_EN
         linkname: Skyline
       - url: https://github.com/HDR-Development/smashline/releases/latest
         linkname: Smashline 2
-      - url: https://github.com/HDR-Development/smashline/releases/latest
+      - url: https://github.com/ultimate-research/nro-hook-plugin/releases
         linkname: NRO Hook
-      - url: https://github.com/HDR-Development/smashline/releases/latest
+      - url: https://github.com/CSharpM7/lib_paramconfig/releases/latest
         linkname: Param Config
   credits:
     title: "Credits"
