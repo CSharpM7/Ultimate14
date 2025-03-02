@@ -6,11 +6,11 @@
         </div>
     </div>
 
-    <div class="row text-center">
-        {% for credit in site.data.sitetext[site.locale].credits.list %}
-        <div class="col-md-4 text-center">
-            <h4 class="section-heading">{{ credit.name }}</h4>
+    {% for credit in site.data.sitetext[site.locale].credits.list %}
+    <div class="row">
+        <div class="col-md-4">
+            <p class="text-muted text-center">{{ credit.name }}</p>
         </div>
-        {% endfor %}
     </div>
+    {% endfor %}
   </section>
