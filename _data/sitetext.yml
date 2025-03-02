@@ -62,10 +62,18 @@ en: &DEFAULT_EN
 
   download:
     title: "Download"
-    url: http://ko-fi.com/csharpm7/tiers
+    url: https://github.com/CSharpM7/Ultimate14-release/latest
     linkname: "N/A"
     section: download
+    list:
+      - url: https://github.com/HDR-Development/smashline/releases/latest
+        linkname: Smashline 2
 
+  credits:
+    title: "Credits"
+    section: credits
+    list:
+      - name: Wuboy
 
   footer:
     legal: " "

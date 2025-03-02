@@ -1,0 +1,16 @@
+<section class="py-5" id="{{ site.data.sitetext[site.locale].credits.section | default: "credits" }}">
+    
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h3 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].credits.title2 | default: "Credits" }}</h3>
+        </div>
+    </div>
+
+    <div class="row text-center">
+        {% for credit in site.data.sitetext[site.locale].credits.list %}
+        <div class="col-md-4">
+            <h3 class="section-heading text-uppercase">{{ credit.name }}</h3>
+        </div>
+        {% endfor %}
+    </div>
+  </section>

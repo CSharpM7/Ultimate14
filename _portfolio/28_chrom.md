@@ -26,8 +26,6 @@ All normals, neutral special, and side special deal 0.9x damage
 |  |  |  |
 | **Forward Smash** | | Damage decreased (18->16.5) |
 |  |  |  |
-| **Up Air** | | Active Frames decreased by 2 |
-|  |  | Landing Lag increased by 1 |
 | **Down Air** | | Sweetspot adjusted to be lower, making it resemble the sword rather than the hilt (like Roy has) |
 | | | |
 

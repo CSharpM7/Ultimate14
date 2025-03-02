@@ -37,4 +37,4 @@ The return of the legendary Brawl recovery. Gifted with Pandora's Power, Dark Pi
 
 <video src="https://csharpm7.github.io/Ultimate14/assets/img/videos/pitb_speciallw.mp4" width="640" height="360" controls></video>
 
-Similar to Palutena's Reflection Board, except it will destroy all projectiles on contact instead of reflecting them. Each attack will slightly slow it down, and it can only block a few physical attacks before breaking. The cooldown is much longer than Pit's, and will always enter cooldown after being used.
+Similar to Palutena's Reflection Board, except it will destroy all projectiles on contact instead of reflecting them. The shield also doubles as an attack, sending opponents upward. Physical attacks can break the shield, and the cooldown is much longer than Pit's.
