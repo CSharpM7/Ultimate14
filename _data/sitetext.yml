@@ -62,6 +62,7 @@ en: &DEFAULT_EN
 
   download:
     title: "Download"
+    title2: "Required Plugins"
     url: https://github.com/CSharpM7/Ultimate14-release/latest
     linkname: "N/A"
     section: download
@@ -79,7 +80,8 @@ en: &DEFAULT_EN
     section: credits
     list:
       - name: Wuboy (Custom Variable Module)
-      - name: Sushiiz (Mario Captoss Animation)
+      - name: Sushiiz (Mario Captoss Animations)
+      - name: LKE Studios (converted Pit Up Special Animations)
 
   footer:
     legal: " "

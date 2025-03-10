@@ -26,6 +26,7 @@ All normals, neutral special, and side special deal 0.9x damage
 |  |  |  |
 | **Forward Smash** | | Damage decreased (18->16.5) |
 |  |  |  |
+| **Neutral Air** | | A shorter Aether that has a multihit hitbox, similar to Byleth and Mythra's nair |
 | **Down Air** | | Sweetspot adjusted to be lower, making it resemble the sword rather than the hilt (like Roy has) |
 | | | |
 
