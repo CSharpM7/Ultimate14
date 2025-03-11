@@ -63,7 +63,7 @@ en: &DEFAULT_EN
   download:
     title: "Download"
     title2: "Required Plugins"
-    url: https://github.com/CSharpM7/Ultimate14-release/latest
+    url: https://github.com/CSharpM7/Ultimate14-release/releases/latest
     linkname: "Click here for latest release"
     section: download
     list:
