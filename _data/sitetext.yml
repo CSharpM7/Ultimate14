@@ -64,7 +64,7 @@ en: &DEFAULT_EN
     title: "Download"
     title2: "Required Plugins"
     url: https://github.com/CSharpM7/Ultimate14-release/latest
-    linkname: "N/A"
+    linkname: "Click here for latest release"
     section: download
     list:
       - url: https://github.com/skyline-dev/skyline/releases/latest
