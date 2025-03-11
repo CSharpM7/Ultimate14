@@ -16,7 +16,9 @@ a {
 }
 b {
   font-weight: 700;
-  @include heading-font;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
   color: $primary;
   &:hover {
     color: darken($primary, 10%);
@@ -39,11 +41,6 @@ h6 {
 
 .page-section {
   padding: 100px 0;
-  b.section-heading {
-    font-size: 40px;
-    margin-top: 0;
-    margin-bottom: 15px;
-  }
   h2.section-heading {
     font-size: 40px;
     margin-top: 0;
