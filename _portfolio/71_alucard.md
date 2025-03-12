@@ -13,4 +13,4 @@ caption:
 
 # Overview
 
-Due to current Smashline 2 limitations, Alucard is not compatible with Ultimate 14
+Alucard is compatible, but due to current Smashline 2 limitations, there may be some unintended behavior with either Alucard or Richter. Make sure to use the most recent Alucard SSM mod, alongside patching the config.json folder with the one provided in Ultimate 14
