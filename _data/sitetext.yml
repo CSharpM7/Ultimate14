@@ -81,7 +81,8 @@ en: &DEFAULT_EN
     list:
       - name: Wuboy (Custom Variable Module)
       - name: Sushiiz (Mario Captoss Animations)
-      - name: LKE Studios (converted Pit Up Special Animations)
+      - name: LKE Studios (converted Pit Up Special Animations, Brawl Up Special scripting collaboration)
+      - name: HDR Dev Team, PhazoGanon (misc coding reference)
 
   footer:
     legal: " "
